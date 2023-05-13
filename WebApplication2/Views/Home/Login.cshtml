@@ -1,0 +1,43 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+h1>@ViewData["Title"]</h1>
+<div class="row">
+    <div class="col-md-4">
+        <section>
+            <form id="account" action="Login" method="post">
+                <h2>Use a local account to log in.</h2>
+                <hr />
+               
+                <div class="form-floating">
+                    <input class="form-control" type="email" id="Email" name="Email" autocomplete="username" aria-required="true" />
+                    <label for="Email" class ="form-label" ></label>
+                </div>
+
+                <div class="form-floating">
+                    <input class="form-control" type="password" id="Password" name="Password"  aria-required="true" />
+                    <label for="Password" class="form-label"></label>
+                </div>
+                <div class="form-floating">
+                    <input class="form-control" type="password" id="Password" name="Password" autocomplete="username" aria-required="true" />
+                    <label for="Password" class="form-label"></label>
+                </div>
+              
+                <div>
+                    <div class="checkbox">
+                     
+                    </div>
+                </div>
+                <div>
+                    <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
+                </div>
+              
+            </form>
+        </section>
+    </div>
+ 
+</div>

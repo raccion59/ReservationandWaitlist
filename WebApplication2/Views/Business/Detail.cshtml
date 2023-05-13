@@ -1,0 +1,1396 @@
+﻿@model WebApplication2.Models.Business
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+     ViewData["Title"] = Model.Name;
+}
+<link rel="stylesheet" type="text/css" href="/css/Restaurant.css" />
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<!-- Site CSS -->
+<link rel="stylesheet" href="/css/style.css">
+<!-- Responsive CSS -->
+<link rel="stylesheet" href="/css/responsive.css">
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/css/custom.css">
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<!-- Site CSS -->
+<link rel="stylesheet" href="/css/style.css">
+<!-- Responsive CSS -->
+<link rel="stylesheet" href="/css/responsive.css">
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/css/custom.css">
+
+<link rel="preload" href="//cdn.otstatic.com/cfe/12/restprofilepage.translations.en-US-1257c4c23c4324f94f65.js"
+      as="script" crossorigin="anonymous" />
+
+
+
+   <div id="wrapper">
+        <div class="Vjv7IAxA9tM2Q_lNaiH8" id="baseApp">
+            <div class="f3iSmMLllrn4_gjKYg0E"><a href="#0" class="M_ZC8nOWWLYxTJGomW14 cpEOy_DPrbjR6hnlY0ub">Skip to
+                    Main Content</a>
+                <header class="qlbbWdBYqZl3xzL1T2Iw W__Knzh_6bMlVlg8wcvA" data-test="header">
+                    <div class="cizdJIq3GL6EovHTT3Mp"><button class="qP99i2D9MiYuE8fBsZzW" type="button">For
+                            Businesses</button>
+                        <div class="wb3aQexQhupyvyEklhF4"><button class="qP99i2D9MiYuE8fBsZzW AgEDNphPspJaKRiLYrDn"
+                                type="button" data-test="" aria-label="" title="">Mobile</button></div><button
+                            class="qP99i2D9MiYuE8fBsZzW" type="button" data-test="faqs-button">FAQs</button>
+                        <div class="VbBKxeTrv8GOTr_txukL">
+                            <div class="wb3aQexQhupyvyEklhF4"><button class="qP99i2D9MiYuE8fBsZzW AgEDNphPspJaKRiLYrDn"
+                                    type="button" data-test="header-language-picker" aria-label=""
+                                    title="Language Picker">EN</button></div>
+                        </div>
+                    </div>
+                    <div class="cMRrBZjTZhCa7Fw22lsS">
+                        <div class="e2q_hZG7J8JCzQwxzQtD">
+                            <div class="e2q_hZG7J8JCzQwxzQtD k6JD3nCKaPo_vn476h7x">
+                                <nav class="Wn3YUFWGHShn8NlQqebD" role="navigation">
+                                    <div class="u1eAhXG8Zj0H3cBEQSyT _PgbnD4WpG2OyCVhGvxb" data-testid="loadingBlock"
+                                        data-test="loading-block"></div>
+                                </nav>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ol class="IIjR9bHP61zJLS8gkCx5" data-test="breadcrumb">
+                        <li class="L0748CQhm3U6aRsBrQNE" data-test="crumb"><a href="/"
+                                class="weDquMEYhCEpbFSKBBNs">Home</a></li>
+                        <li class="L0748CQhm3U6aRsBrQNE" data-test="crumb">
+                            <div class="UVUOxqO_BBtBlkGsL29o">Turkey</div>
+                        </li>
+                        <li class="L0748CQhm3U6aRsBrQNE" data-test="crumb"><a href="https://www.opentable.com/turkey"
+                                class="weDquMEYhCEpbFSKBBNs">Turkey</a></li>
+                        <li class="L0748CQhm3U6aRsBrQNE" data-test="crumb"><a
+                                href="https://www.opentable.com/turkey/istanbul"
+                                class="weDquMEYhCEpbFSKBBNs">Istanbul</a></li>
+                        <li class="L0748CQhm3U6aRsBrQNE" data-test="crumb"><a
+                                href="https://www.opentable.com/start/geo/?mn=9508&amp;n=18267"
+                                class="weDquMEYhCEpbFSKBBNs">Sultanahmet</a></li>
+                    </ol>
+                   
+                </header>
+                <main id="mainContent" class="WttPn9hgB8QhLhQxEMDI" tabindex="-1">
+                    <div class="StbaoajdHFp5lCZZrwrK">
+                        <div class="xnjd5eWwPn7GC88GBjqK" data-test="restaurant-banner">
+                            <div class="Ewz2YUsKHA40Oj0dRkcR Hh5zBSngew7aMnlQ5ox_" data-test="restaurant-masonry">
+                                
+                            </div>
+
+                        </div>
+                        <div class="mD254pz2eSUyUlj20g6Q">
+                            <div class="I2JgeLqzlyo_b9cnfCRJ">
+                                <section data-testid="tab-container" class="sitJVLnLb7VnCCjAzibT">
+                                    <nav class="hfirgUQGzqWl0dCy8bYq fReF15Ocg5x63BJaTB03">
+                                        <ol class="">
+                                            <li class="Z9HRng5eGfjegBBDhgvy" data-test="tab-navigation-button"><button
+                                                    type="button" class="npZYLDMKBFyRcK4ZoU3Y"
+                                                    aria-label="Overview">Overview</button></li>
+                                            <li class="" data-test="tab-navigation-button"><button type="button"
+                                                    class="npZYLDMKBFyRcK4ZoU3Y" aria-label="Photos">Photos</button>
+                                            </li>
+                                            <li class="" data-test="tab-navigation-button"><button type="button"
+                                                    class="npZYLDMKBFyRcK4ZoU3Y" aria-label="Menu">Menu</button></li>
+                                            <li class="" data-test="tab-navigation-button"><button type="button"
+                                                    class="npZYLDMKBFyRcK4ZoU3Y" aria-label="Reviews">Reviews</button>
+                                            </li>
+                                        </ol>
+                                        <div class="e45q8iG5ryjKYSzKSvD0 lulAfE0oZLUQueXT9kA8"></div>
+                                    </nav>
+                                </section>
+                                <section>
+                                    <h1 class="eM9Li2wbkQvvjxZB11sV mPudeIT67bJGOcOfKy92">@Model.Name
+                                    </h1>
+                                    <div class="wP05FC6Kn5yIYpS1MOVU" data-test="restaurant-overview-header">
+                                        <div class="Wg4GP9WuawdlKFwoOyPc" id="ratingInfo">
+                                            <div class="Ky7CQq2rCwG8t_monZNj">
+                                                <div class="vJWFYZLiWZbHIB0Hwa83" role="img" aria-label="5 stars">
+                                                   @for (int i = 0; i < Convert.ToInt32( Model.rating); i++)
+													{
+														  <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_"><i
+                                                            class="K2lMVzSi_oGonnJavy9h #da3743" aria-hidden="true"
+                                                            tab-index="-1" focusable="no"></i></div>
+													 }
+                                                 
+                                                </div>
+                                                <div class="Sssqfi7z0_YZugOpowNY">@Model.rating Fat</div>
+                                        </div><span class="QBMm80naGcMZ6qlVk6OI cpEOy_DPrbjR6hnlY0ub">@Model.rating </span>
+                                        </div>
+                                        <div class="eGVFHwFNmfG0mKcGjSGf cpEOy_DPrbjR6hnlY0ub" id="reviewInfo"><span
+                                                class="pBCjKaMJcpEY4UICo9ol BlIrzraLsBsehdCM8khx" data-test="icReview"
+                                                data-testid="icReview"><svg viewBox="0 0 24 24"
+                                                    xmlns="http://www.w3.org/2000/svg" focusable="false">
+                                                    <g fill="none" fill-rule="evenodd">
+                                                        <path
+                                                            d="M19,4 L5,4 C3.8954305,4 3,4.8954305 3,6 L3,15 C3,16.1045695 3.8954305,17 5,17 L11,17 L15.36,20.63 C15.6583354,20.8784924 16.0735425,20.9318337 16.4250008,20.7668198 C16.776459,20.6018059 17.0006314,20.2482681 17,19.86 L17,17 L19,17 C20.1045695,17 21,16.1045695 21,15 L21,6 C21,4.8954305 20.1045695,4 19,4 Z M19,15 L15,15 L15,17.73 L11.72,15 L5,15 L5,6 L19,6 L19,15 Z"
+                                                            fill="#2D333F" fill-rule="nonzero" />
+                                                    </g>
+                                                </svg></span><span>1 Review</span></div>
+                                        <div class="eGVFHwFNmfG0mKcGjSGf cpEOy_DPrbjR6hnlY0ub" id="priceBandInfo"><span
+                                                class="pBCjKaMJcpEY4UICo9ol BlIrzraLsBsehdCM8khx"
+                                                data-test="icPriceRange" data-testid="icPriceRange"><svg
+                                                    viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
+                                                    focusable="false">
+                                                    <g fill="none" fill-rule="evenodd">
+                                                        <path
+                                                            d="M20,15 L20,9 L18.5,9 C18.2238576,9 18,8.77614237 18,8.5 L18,7 L6,7 L6,8.5 C6,8.77614237 5.77614237,9 5.5,9 L4,9 L4,15 L5.5,15 C5.77614237,15 6,15.2238576 6,15.5 L6,17 L18,17 L18,15.5 C18,15.2238576 18.2238576,15 18.5,15 L20,15 Z M4,5 L20,5 C21.1045695,5 22,5.8954305 22,7 L22,17 C22,18.1045695 21.1045695,19 20,19 L4,19 C2.8954305,19 2,18.1045695 2,17 L2,7 C2,5.8954305 2.8954305,5 4,5 Z M12,10 C13.1045695,10 14,10.8954305 14,12 C14,13.1045695 13.1045695,14 12,14 C10.8954305,14 10,13.1045695 10,12 C10,10.8954305 10.8954305,10 12,10 Z"
+                                                            fill="#2D333F" />
+                                                    </g>
+                                                </svg></span><span>$30 and under</span></div>
+                                        <div class="eGVFHwFNmfG0mKcGjSGf cpEOy_DPrbjR6hnlY0ub" id="cuisineInfo"><span
+                                                class="pBCjKaMJcpEY4UICo9ol BlIrzraLsBsehdCM8khx" data-test="icCuisine"
+                                                data-testid="icCuisine"><svg viewBox="0 0 24 24"
+                                                    xmlns="http://www.w3.org/2000/svg" focusable="false">
+                                                    <g fill="none" fill-rule="evenodd">
+                                                        <path
+                                                            d="M11,2 C12.1045695,2 13,2.8954305 13,4 L13,11 C13,12.1045695 12.1045695,13 11,13 L10,13 L10,21 C10,21.5522847 9.55228475,22 9,22 L8,22 C7.44771525,22 7,21.5522847 7,21 L7,13 L6,13 C4.8954305,13 4,12.1045695 4,11 L4,4 C4,2.8954305 4.8954305,2 6,2 L11,2 Z M11,11 L11,4 L10,4 L10,8.5 C10,8.77614237 9.77614237,9 9.5,9 C9.22385763,9 9,8.77614237 9,8.5 L9,4 L8,4 L8,8.5 C8,8.77614237 7.77614237,9 7.5,9 C7.22385763,9 7,8.77614237 7,8.5 L7,4 L6,4 L6,11 L11,11 Z M19.45,2 C19.7537566,2 20,2.24624339 20,2.55 L20,21 C20,21.5522847 19.5522847,22 19,22 L18,22 C17.4477153,22 17,21.5522847 17,21 L17,17 L16,17 C14.8954305,17 14,16.1045695 14,15 L14,7.45 C14,4.44004811 16.4400481,2 19.45,2 Z M16,15 L18,15 L18,4.32 C16.7823465,4.88673047 16.0026709,6.10692278 16,7.45 L16,15 Z"
+                                                            fill="#2D333F" fill-rule="nonzero" />
+                                                    </g>
+                                                </svg></span><span>International</span></div>
+                                    </div>
+                                    <div class="NgVF8DtD8W1Mp0BEt6JI" data-test="restaurant-description"><span
+                                            data-test="wrapper-tag"
+                                            class="t9JcvSL3Bsj1lxMSi3pz v6aCvsQLwgDMIHQfP1MK DUkDy8G7CgNvYcWgJYPN #2d333f"
+                                            style="line-height:24px;max-height:72px;overflow:hidden;-webkit-line-clamp:3"><span>@Model.Description</span></span><span
+                                            class="t9JcvSL3Bsj1lxMSi3pz v6aCvsQLwgDMIHQfP1MK DUkDy8G7CgNvYcWgJYPN"><br /></span>
+                                    </div>
+                                    <div class="Wx8xR4rSorZWZrKAAd5E">
+                                        <article data-test="bookable-cta-container" class="lUgYxPBzyhAPIZtOkRIg">
+                                            <h2 class="aegHzpcCdt0DNWjSNAhK hRJSzgf3UJrFyRvw9460">Make a reservation
+                                            </h2>
+                                            <div class="NDx_n1hkYbSGVsv_noW5">
+                                                <div data-test="bookable-restaurant-profile-party-size-picker"><label
+                                                        for="restProfileMainContentDtpPartySizePicker"
+                                                        class="NdcnwWUaXyG77FdUFd5B">Party Size</label>
+                                                    <div class="bnmB257yUbSVRyrz1e1w" value="2"><select
+                                                            aria-label="Party size selector"
+                                                            class="FfVyD58WJTQB9nBaLQRB" data-test="party-size-picker"
+                                                            id="restProfileMainContentDtpPartySizePicker">
+                                                            <option value="1">1 person</option>
+                                                            <option value="2" selected="">2 people</option>
+                                                            <option value="3">3 people</option>
+                                                            <option value="4">4 people</option>
+                                                            <option value="5">5 people</option>
+                                                            <option value="6">6 people</option>
+                                                            <option value="7">7 people</option>
+                                                            <option value="8">8 people</option>
+                                                            <option value="9">9 people</option>
+                                                            <option value="10">10 people</option>
+                                                            <option value="11">11 people</option>
+                                                            <option value="12">12 people</option>
+                                                            <option value="13">13 people</option>
+                                                            <option value="14">14 people</option>
+                                                            <option value="15">15 people</option>
+                                                            <option value="16">16 people</option>
+                                                            <option value="17">17 people</option>
+                                                            <option value="18">18 people</option>
+                                                            <option value="19">19 people</option>
+                                                            <option value="20">20 people</option>
+                                                        </select>
+                                                        <div class="DnYuMC7SX0ktW_eyFLZl aqBt8GEfHa8tUN4Kud9f sQLQpbSFdfqeyxPTRStA"
+                                                            data-testid="party-size-picker-overlay">
+                                                            <div class="ZKMlkp7pRERrDdyKBOsh">
+                                                                <div class="mFqn9avpnEk4DaaVV4UE">2 people</div><span
+                                                                    class="pBCjKaMJcpEY4UICo9ol kcldsUQv4uHKDVPb9pZQ"
+                                                                    data-test="icDown" data-testid="icDown"
+                                                                    aria-hidden="true"><svg viewBox="0 0 24 24"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                        focusable="false">
+                                                                        <g fill="none" fill-rule="evenodd">
+                                                                            <path
+                                                                                d="M11,11 L11,14.5 C11,14.7761424 10.7761424,15 10.5,15 L9.5,15 C9.22385763,15 9,14.7761424 9,14.5 L9,10.5 L9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L14.5,9 C14.7761424,9 15,9.22385763 15,9.5 L15,10.5 C15,10.7761424 14.7761424,11 14.5,11 L11,11 Z"
+                                                                                fill="#2D333F"
+                                                                                transform="translate(12.000000, 12.000000) rotate(-135.000000) translate(-12.000000, -12.000000)" />
+                                                                        </g>
+                                                                    </svg></span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <hr class="j1tQ7DBGfGnD2zrPb89N uOj2t5hNfVbs1Boi0IQ3" />
+                                                <div class="rOIUZ5qkIwRlxf0JYgcu"><label
+                                                        for="restProfileMainContentDtpDayPicker"
+                                                        class="r3iP6wRLGf38JL7DoM1r">Date</label><label
+                                                        for="restProfileMainContenttimePickerDtpPicker"
+                                                        class="zl16l9w1tSWt9GgM1sGQ">Time</label></div>
+                                                <div class="VaVawDCynwZrm3Y9Fc_X"
+                                                    data-test="bookable-restaurant-profile-day-picker">
+                                                    <div class="rBIdJKnW2cggQEFzDqe4">
+                                                        <div class="y1AHQwkbSQMgk5YGVoJo">
+                                                            <div class="_V_Dcm1l3MX6RQLGwjxy Wv5MuS79JoOmCROPWpaI"
+                                                                role="button" tabindex="0" aria-label="Date selector"
+                                                                aria-expanded="false" data-test="day-picker"
+                                                                data-testid="day-picker-overlay"
+                                                                id="restProfileMainContentDtpDayPicker">
+                                                                <div class="PT27qfQ4KoNGfuIAncyk">
+                                                                    <div class="dwN7MVZqX2aZLh4E2Dav">
+                                                                        <div class="zgAtBiHslksiJOeO0qHP">May 4, 2023
+                                                                        </div><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol UlAoY3i9eswcvtJ8arC9"
+                                                                            data-test="icDown" data-testid="icDown"
+                                                                            aria-hidden="true"><svg viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M11,11 L11,14.5 C11,14.7761424 10.7761424,15 10.5,15 L9.5,15 C9.22385763,15 9,14.7761424 9,14.5 L9,10.5 L9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L14.5,9 C14.7761424,9 15,9.22385763 15,9.5 L15,10.5 C15,10.7761424 14.7761424,11 14.5,11 L11,11 Z"
+                                                                                        fill="#2D333F"
+                                                                                        transform="translate(12.000000, 12.000000) rotate(-135.000000) translate(-12.000000, -12.000000)" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="A6LUjOVAl1NHEauGhs4w"
+                                                                data-test="day-picker-component-wrapper">
+                                                                <div class="IXvY8vOGLuI7qhuUOdaJ"
+                                                                    aria-label="Loading..." aria-live="assertive"
+                                                                    data-test="loading-spinner">
+                                                                    <div data-test="day-picker-loading-spinner"
+                                                                        data-testid="day-picker-loading-spinner"
+                                                                        class="FXWiKrDWoSgK42I5yY6K m3ta_zlcJhRFQfT8hsfc">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="rBIdJKnW2cggQEFzDqe4"
+                                                        data-test="bookable-restaurant-profile-time-picker">
+                                                        <div class="vi82VMK8sC0FGmJW0eiQ"><select
+                                                                class="TxpENin57omlyGS8c0YB" aria-label="Time selector"
+                                                                data-test="time-picker"
+                                                                id="restProfileMainContenttimePickerDtpPicker">
+                                                                <option value="2000-02-01T15:00:00">3:00 PM</option>
+                                                                <option value="2000-02-01T15:30:00">3:30 PM</option>
+                                                                <option value="2000-02-01T16:00:00">4:00 PM</option>
+                                                                <option value="2000-02-01T16:30:00">4:30 PM</option>
+                                                                <option value="2000-02-01T17:00:00">5:00 PM</option>
+                                                                <option value="2000-02-01T17:30:00">5:30 PM</option>
+                                                                <option value="2000-02-01T18:00:00">6:00 PM</option>
+                                                                <option value="2000-02-01T18:30:00">6:30 PM</option>
+                                                                <option value="2000-02-01T19:00:00" selected="">7:00 PM
+                                                                </option>
+                                                                <option value="2000-02-01T19:30:00">7:30 PM</option>
+                                                                <option value="2000-02-01T20:00:00">8:00 PM</option>
+                                                                <option value="2000-02-01T20:30:00">8:30 PM</option>
+                                                                <option value="2000-02-01T21:00:00">9:00 PM</option>
+                                                                <option value="2000-02-01T21:30:00">9:30 PM</option>
+                                                                <option value="2000-02-01T22:00:00">10:00 PM</option>
+                                                                <option value="2000-02-01T22:30:00">10:30 PM</option>
+                                                                <option value="2000-02-01T23:00:00">11:00 PM</option>
+                                                                <option value="2000-02-01T23:30:00">11:30 PM</option>
+                                                            </select>
+                                                            <div class="w3XtRVrlxAz393JBTOPD hxPpiCIW7s_oqgRYQCg9"
+                                                                data-testid="time-picker-overlay">
+                                                                <div class="pyTvW4eSbvBIxGvpcWbw">
+                                                                    <div
+                                                                        class="o1iksL4y6p0bvZMooIHD w3XtRVrlxAz393JBTOPD">
+                                                                        7:00 PM</div><span
+                                                                        class="pBCjKaMJcpEY4UICo9ol w5mVDvqHJtjCJWxhRpew"
+                                                                        data-test="icDown" data-testid="icDown"
+                                                                        aria-hidden="true"><svg viewBox="0 0 24 24"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                            focusable="false">
+                                                                            <g fill="none" fill-rule="evenodd">
+                                                                                <path
+                                                                                    d="M11,11 L11,14.5 C11,14.7761424 10.7761424,15 10.5,15 L9.5,15 C9.22385763,15 9,14.7761424 9,14.5 L9,10.5 L9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L14.5,9 C14.7761424,9 15,9.22385763 15,9.5 L15,10.5 C15,10.7761424 14.7761424,11 14.5,11 L11,11 Z"
+                                                                                    fill="#2D333F"
+                                                                                    transform="translate(12.000000, 12.000000) rotate(-135.000000) translate(-12.000000, -12.000000)" />
+                                                                            </g>
+                                                                        </svg></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="orZ1H54SLxa55rLJ35P6">
+                                                    <hr class="j1tQ7DBGfGnD2zrPb89N EA70U0ovSZpsWMnulobS" />
+                                                    <hr class="j1tQ7DBGfGnD2zrPb89N EA70U0ovSZpsWMnulobS" />
+                                                </div>
+                                                <div class="UZ_e0x4iWqdD2wWEBas0"><button type="button"
+                                                        class="oj_Zftq0Z_Ts7usxdiLc WkATSvkvJnLhgjlINRzg n0GonOKcEH4mc03kM4Jz pREW2ZkuYncjapZLLnc3"
+                                                        aria-disabled="false" data-test="dtp-picker-card-find-button"
+                                                        aria-label="Find a time" tabindex="0">Find a time</button></div>
+                                            </div>
+                                        </article>
+                                    </div>
+                                    <div class="Wx8xR4rSorZWZrKAAd5E">
+                                        <section data-test="restaurant-details" class="kS2kgQfnKbbEbghSQU6P">
+                                            <div class="Wi5aAeHmced2sk4zN1RR">
+                                                <div style="max-height:450px"
+                                                    class="rgtSylyDltiJrgoZncEO tpY6S0qy22gK9SJc4zTs"
+                                                    data-test="inner-expandable-container">
+                                                    <div>
+                                                        <h4 class="b0VrPVenhe9jJVYrbINK aqBt8GEfHa8tUN4Kud9f">Additional
+                                                            information</h4>
+                                                        <div class="oEq0FbNRsdySEbkz88DS">
+                                                            <ul class="ZyMjoKRZyYgHEI3nRlzv">
+                                                                <li class="sLBJlww5dQUKh9NaUejA">
+                                                                    <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol"
+                                                                            data-test="icDiningStyle"
+                                                                            data-testid="icDiningStyle"><svg
+                                                                                viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M11,20 L11,18 L5,18 C4.44771525,18 4,17.5522847 4,17 L4,16.5 C4,16.2238576 4.22385763,16 4.5,16 L19.5,16 C19.7761424,16 20,16.2238576 20,16.5 L20,17 C20,17.5522847 19.5522847,18 19,18 L13,18 L13,20 L14.5,20 C14.7761424,20 15,20.2238576 15,20.5 L15,21.5 C15,21.7761424 14.7761424,22 14.5,22 L9.5,22 C9.22385763,22 9,21.7761424 9,21.5 L9,20.5 C9,20.2238576 9.22385763,20 9.5,20 L11,20 Z M9.00417359,5.4035781 C9.00139886,5.34650803 9,5.28913741 9,5.23151007 C9,3.44679634 10.3431457,2 12,2 C13.6568543,2 15,3.44679634 15,5.23151007 C15,5.28914395 14.9986008,5.34652105 14.9958255,5.40359753 C18.4009049,6.45156941 20.0249274,9.56291275 19.9997109,15 L4.00029014,14.9999824 C3.97502821,9.56287514 5.5990558,6.45153039 9.00417359,5.4035781 Z M11.0648956,5.03309447 C11.3666212,5.01099572 11.6782939,5 11.9999677,5 C12.3216638,5 12.6333575,5.01099726 12.9351029,5.0330991 C12.9775121,4.90683455 13,4.77109821 13,4.63102852 C13,4.00637872 12.5522848,3.5 12,3.5 C11.4477152,3.5 11,4.00637872 11,4.63102852 C11,4.7710965 11.0224873,4.90683124 11.0648956,5.03309447 Z M17.9997832,13 C18.0235785,8.89548434 16.0892795,7 11.9999758,7 C7.91067197,7 5.97637963,8.89548371 6.00021761,12.9999894 L17.9997832,13 Z"
+                                                                                        fill="#2D333F" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                        <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                                class="tLGQNTUZlM7f0xfO_o73"
+                                                                                data-test="restaurant-detail-title">Dining
+                                                                                style</span>
+                                                                            <p class="c_qirB1mFl5VRKHYJqTz">Casual
+                                                                                Dining</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="sLBJlww5dQUKh9NaUejA">
+                                                                    <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol"
+                                                                            data-test="icCuisine"
+                                                                            data-testid="icCuisine"><svg
+                                                                                viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M11,2 C12.1045695,2 13,2.8954305 13,4 L13,11 C13,12.1045695 12.1045695,13 11,13 L10,13 L10,21 C10,21.5522847 9.55228475,22 9,22 L8,22 C7.44771525,22 7,21.5522847 7,21 L7,13 L6,13 C4.8954305,13 4,12.1045695 4,11 L4,4 C4,2.8954305 4.8954305,2 6,2 L11,2 Z M11,11 L11,4 L10,4 L10,8.5 C10,8.77614237 9.77614237,9 9.5,9 C9.22385763,9 9,8.77614237 9,8.5 L9,4 L8,4 L8,8.5 C8,8.77614237 7.77614237,9 7.5,9 C7.22385763,9 7,8.77614237 7,8.5 L7,4 L6,4 L6,11 L11,11 Z M19.45,2 C19.7537566,2 20,2.24624339 20,2.55 L20,21 C20,21.5522847 19.5522847,22 19,22 L18,22 C17.4477153,22 17,21.5522847 17,21 L17,17 L16,17 C14.8954305,17 14,16.1045695 14,15 L14,7.45 C14,4.44004811 16.4400481,2 19.45,2 Z M16,15 L18,15 L18,4.32 C16.7823465,4.88673047 16.0026709,6.10692278 16,7.45 L16,15 Z"
+                                                                                        fill="#2D333F"
+                                                                                        fill-rule="nonzero" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                        <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                                class="tLGQNTUZlM7f0xfO_o73"
+                                                                                data-test="restaurant-detail-title">Cuisines</span>
+                                                                            <p class="c_qirB1mFl5VRKHYJqTz">
+                                                                                International, European, Turkish</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="sLBJlww5dQUKh9NaUejA">
+                                                                    <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol"
+                                                                            data-test="icPhone"
+                                                                            data-testid="icPhone"><svg
+                                                                                viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M11.1923881,7.19238816 C13.8147448,7.19238816 16.4332749,7.88002892 19.0481719,9.24949945 C20.3663707,9.93987064 21.1923881,11.3049175 21.1923881,12.7929562 L21.1923881,15.1923882 C21.1923881,16.2969577 20.2969576,17.1923882 19.1923881,17.1923882 L15.8386797,17.1923882 C14.9458358,17.1923934 14.1611367,16.600599 13.9157119,15.74215 C13.5311739,14.3971097 13.051748,13.8597684 12.4435462,13.8590555 L12.2445137,13.8590532 C11.9797378,13.8590516 11.9797378,13.8590516 11.1923912,13.8590525 L10.5908984,13.8590535 L9.94238815,13.8590549 C9.36404307,13.8590549 8.89692488,14.3907007 8.48907223,15.7623886 C8.23683842,16.610715 7.45704835,17.1923882 6.57201858,17.1923882 L3.19238815,17.1923882 C2.08781864,17.1923882 1.19238815,16.2969577 1.19238815,15.1923882 L1.19238815,12.7929431 C1.19239394,11.3049036 2.0184157,9.93985867 3.33661714,9.24949272 C5.95150798,7.88002719 8.5700348,7.19238816 11.1923881,7.19238816 Z M3.19238815,12.7929469 L3.19238815,15.1923882 L6.57201858,15.1923839 C7.20290417,13.0705928 8.26739372,11.8590549 9.94238599,11.8590549 L10.5908946,11.8590535 L11.1923885,11.8590525 C11.9797362,11.8590516 11.9797362,11.8590516 12.2445326,11.8590532 L12.4447301,11.8590562 C14.1421938,11.8610438 15.2370999,13.0882166 15.8386738,15.1923882 L19.1923881,15.1923882 L19.1923881,12.7929562 C19.1923881,12.0489367 18.7793784,11.3664115 18.1202811,11.021227 C15.7828612,9.79707646 13.4802133,9.19238816 11.1923881,9.19238816 C8.90456585,9.19238816 6.60192098,9.79707492 4.26450398,11.0212224 C3.60540308,11.3664055 3.19239104,12.0489299 3.19238815,12.7929469 Z"
+                                                                                        fill="#2D333F"
+                                                                                        fill-rule="nonzero"
+                                                                                        transform="translate(11.192388, 12.192388) rotate(-135.000000) translate(-11.192388, -12.192388)" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                        <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                                class="tLGQNTUZlM7f0xfO_o73"
+                                                                                data-test="restaurant-detail-title">Phone
+                                                                                number</span>
+                                                                            <p class="c_qirB1mFl5VRKHYJqTz">(0212) 254
+                                                                                70 32</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="sLBJlww5dQUKh9NaUejA">
+                                                                    <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol"
+                                                                            data-test="icNewWindow"
+                                                                            data-testid="icNewWindow"><svg
+                                                                                viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M19.5,4 C19.7761424,4 20,4.22385763 20,4.5 L20,9.5 C20,9.77614237 19.7761424,10 19.5,10 L18.5,10 C18.2238576,10 18,9.77614237 18,9.5 L18,7.41 L12.18,13.25 C12.0861167,13.3446563 11.9583188,13.3978992 11.825,13.3978992 C11.6916812,13.3978992 11.5638833,13.3446563 11.47,13.25 L10.76,12.54 C10.6653437,12.4461167 10.6121008,12.3183188 10.6121008,12.185 C10.6121008,12.0516812 10.6653437,11.9238833 10.76,11.83 L16.59,6 L14.5,6 C14.2238576,6 14,5.77614237 14,5.5 L14,4.5 C14,4.22385763 14.2238576,4 14.5,4 L19.5,4 Z M19.5,14 C19.7761424,14 20,14.2238576 20,14.5 L20,18 C20,19.1045695 19.1045695,20 18,20 L6,20 C4.8954305,20 4,19.1045695 4,18 L4,6 C4,4.8954305 4.8954305,4 6,4 L9.5,4 C9.77614237,4 10,4.22385763 10,4.5 L10,5.5 C10,5.77614237 9.77614237,6 9.5,6 L6,6 L6,18 L18,18 L18,14.5 C18,14.2238576 18.2238576,14 18.5,14 L19.5,14 Z"
+                                                                                        fill="#2D333F"
+                                                                                        fill-rule="nonzero" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                        <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                                class="tLGQNTUZlM7f0xfO_o73"
+                                                                                data-test="restaurant-detail-title">Website</span>
+                                                                            <p class="c_qirB1mFl5VRKHYJqTz"><a
+                                                                                    class="dVuwbDkxZsqrGYVW7Rt4"
+                                                                                    href="http://www.peninsulateras.com/"
+                                                                                    target="_blank"
+                                                                                    rel="noopener noreferrer">http://www.peninsulateras.com/</a>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="sLBJlww5dQUKh9NaUejA">
+                                                                    <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol"
+                                                                            data-test="icDressCode"
+                                                                            data-testid="icDressCode"><svg
+                                                                                viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M17.58,11.53 C17.4266401,11.1416536 17.3986659,10.7150477 17.5,10.31 L18.68,5.66 C18.9359464,4.6576009 18.3851789,3.62545408 17.41,3.28 L14,2.09 L13.68,3.09 C13.47,3.72 12.89,4.04 11.95,4.04 C11.01,4.04 10.45,3.72 10.24,3.1 L9.92,2.1 L6.59,3.28 C5.61955417,3.62512239 5.06991046,4.65083545 5.32,5.65 L6.49,10.3 C6.59133406,10.7050477 6.5633599,11.1316536 6.41,11.52 L3.08,20 L4.01,20.36 C6.55296711,21.3932302 9.265496,21.9459079 12.01,21.99 C14.7522514,21.9642714 17.4642871,21.4143968 20,20.37 L20.92,20 L17.58,11.53 Z M8.85,4.6 C9.60629927,5.55574661 10.7837814,6.07907199 12,6 C13.2152867,6.07388266 14.3904734,5.55157745 15.15,4.6 L16.74,5.16 L15.56,9.81 C15.56,9.87 15.56,9.93 15.56,10 L8.46,10 C8.46,9.94 8.46,9.88 8.46,9.81 L7.25,5.16 L8.85,4.6 Z M12.05,20 C9.87756989,19.9727298 7.72482585,19.5840868 5.68,18.85 L8.27,12.26 C8.27,12.17 8.32,12.09 8.35,12 L15.63,12 C15.63,12.09 15.63,12.17 15.71,12.26 L18.31,18.86 C16.3022506,19.5891869 14.1859133,19.9745901 12.05,20 Z"
+                                                                                        fill="#2D333F"
+                                                                                        fill-rule="nonzero" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                        <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                                class="tLGQNTUZlM7f0xfO_o73"
+                                                                                data-test="restaurant-detail-title">Dress
+                                                                                code</span>
+                                                                            <p class="c_qirB1mFl5VRKHYJqTz">Business
+                                                                                Casual</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                            <ul class="ZyMjoKRZyYgHEI3nRlzv">
+                                                                <li class="sLBJlww5dQUKh9NaUejA">
+                                                                    <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol"
+                                                                            data-test="icLocation"
+                                                                            data-testid="icLocation"><svg
+                                                                                viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M12,2 C16.418278,2 20,5.581722 20,10 C20,12.8133333 17.5666667,16.59 12.7,21.33 C12.3111565,21.7111429 11.6888435,21.7111429 11.3,21.33 C6.43333333,16.59 4,12.8133333 4,10 C4,5.581722 7.581722,2 12,2 Z M12,4 C8.6862915,4 6,6.6862915 6,10 C6,11.21 6.8,14 12,19.21 C17.2,14 18,11.21 18,10 C18,6.6862915 15.3137085,4 12,4 Z M12,7 C13.6568542,7 15,8.34314575 15,10 C15,11.6568542 13.6568542,13 12,13 C10.3431458,13 9,11.6568542 9,10 C9,8.34314575 10.3431458,7 12,7 Z M12,9 C11.4477153,9 11,9.44771525 11,10 C11,10.5522847 11.4477153,11 12,11 C12.5522847,11 13,10.5522847 13,10 C13,9.44771525 12.5522847,9 12,9 Z"
+                                                                                        fill="#2D333F" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                        <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                                class="tLGQNTUZlM7f0xfO_o73"
+                                                                                data-test="restaurant-detail-title">Location</span>
+                                                                            <p class="c_qirB1mFl5VRKHYJqTz"><a
+                                                                                    class="dVuwbDkxZsqrGYVW7Rt4"
+                                                                                    href="https://www.google.com/maps/dir/?api=1&amp;destination=Peninsula%20Teras%20Restaurant%20No%3A111%20Tersane%20Cad.%20%20Istanbul%2C%20IB%2034440"
+                                                                                    target="_blank"
+                                                                                    rel="noopener noreferrer">No:111
+                                                                                    Tersane Cad., Istanbul, IB 34440</a>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="sLBJlww5dQUKh9NaUejA">
+                                                                    <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol"
+                                                                            data-test="icNeighborhood"
+                                                                            data-testid="icNeighborhood"><svg
+                                                                                viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M11.0042221,7.00000436 C11.046625,6.34790658 11.405963,5.75411959 11.9710085,5.41509227 L14.9710085,3.61509227 C15.6043733,3.23507341 16.3956267,3.23507341 17.0289915,3.61509227 L20.0289915,5.41509227 C20.6314023,5.77653877 21,6.42755242 21,7.13007812 L21,17.9976974 C21,19.1022669 20.1045695,19.9976974 19,19.9976974 L11.0968245,19.9976974 C11.0647419,19.9992266 11.0324613,20 11,20 L5,20 C3.8954305,20 3,19.1045695 3,18 L3,9 C3,7.8954305 3.8954305,7 5,7 L11,7 C11.0014077,7 11.0028151,7.00000145 11.0042221,7.00000436 Z M11,9 L5,9 L5,18 L11,18 L11,9 Z M13,7 L13,18.0000782 L19,18.0000782 L19,7 L16,5.07741671 L13,7 Z M7.5,11 L8.5,11 C8.77614237,11 9,11.2238576 9,11.5 L9,12.5 C9,12.7761424 8.77614237,13 8.5,13 L7.5,13 C7.22385763,13 7,12.7761424 7,12.5 L7,11.5 C7,11.2238576 7.22385763,11 7.5,11 Z M7.5,14 L8.5,14 C8.77614237,14 9,14.2238576 9,14.5 L9,15.5 C9,15.7761424 8.77614237,16 8.5,16 L7.5,16 C7.22385763,16 7,15.7761424 7,15.5 L7,14.5 C7,14.2238576 7.22385763,14 7.5,14 Z M15.5,11 L16.5,11 C16.7761424,11 17,11.2238576 17,11.5 L17,12.5 C17,12.7761424 16.7761424,13 16.5,13 L15.5,13 C15.2238576,13 15,12.7761424 15,12.5 L15,11.5 C15,11.2238576 15.2238576,11 15.5,11 Z M15.5,14 L16.5,14 C16.7761424,14 17,14.2238576 17,14.5 L17,15.5 C17,15.7761424 16.7761424,16 16.5,16 L15.5,16 C15.2238576,16 15,15.7761424 15,15.5 L15,14.5 C15,14.2238576 15.2238576,14 15.5,14 Z M15.5,8 L16.5,8 C16.7761424,8 17,8.22385763 17,8.5 L17,9.5 C17,9.77614237 16.7761424,10 16.5,10 L15.5,10 C15.2238576,10 15,9.77614237 15,9.5 L15,8.5 C15,8.22385763 15.2238576,8 15.5,8 Z"
+                                                                                        fill="#2D333F" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                        <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                                class="tLGQNTUZlM7f0xfO_o73"
+                                                                                data-test="restaurant-detail-title">Neighborhood</span>
+                                                                            <p class="c_qirB1mFl5VRKHYJqTz">Sultanahmet
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="sLBJlww5dQUKh9NaUejA">
+                                                                    <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                            class="pBCjKaMJcpEY4UICo9ol"
+                                                                            data-test="icParkingDetails"
+                                                                            data-testid="icParkingDetails"><svg
+                                                                                viewBox="0 0 24 24"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                focusable="false">
+                                                                                <g fill="none" fill-rule="evenodd">
+                                                                                    <path
+                                                                                        d="M12,21 C7.02943725,21 3,16.9705627 3,12 C3,7.02943725 7.02943725,3 12,3 C16.9705627,3 21,7.02943725 21,12 C21,16.9705627 16.9705627,21 12,21 Z M12,19 C15.8659932,19 19,15.8659932 19,12 C19,8.13400675 15.8659932,5 12,5 C8.13400675,5 5,8.13400675 5,12 C5,15.8659932 8.13400675,19 12,19 Z M9.5,7.97771 C9.5,7.85871 9.596,7.74971 9.728,7.74971 L12.546,7.74971 C14.021,7.74971 15.233,8.94871 15.233,10.40071 C15.233,11.88771 14.021,13.09971 12.558,13.09971 L11.059,13.09971 L11.059,15.91771 C11.059,16.03671 10.951,16.14571 10.831,16.14571 L9.728,16.14571 C9.596,16.14571 9.5,16.03671 9.5,15.91771 L9.5,7.97771 Z M12.498,11.63571 C13.17,11.63571 13.685,11.09671 13.685,10.38871 C13.685,9.72971 13.17,9.22571 12.498,9.22571 L11.059,9.22571 L11.059,11.63571 L12.498,11.63571 Z"
+                                                                                        fill="#2D333F" />
+                                                                                </g>
+                                                                            </svg></span>
+                                                                        <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                                class="tLGQNTUZlM7f0xfO_o73"
+                                                                                data-test="restaurant-detail-title">Parking
+                                                                                details</span>
+                                                                            <p class="c_qirB1mFl5VRKHYJqTz">None</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </section>
+                                <section id="photos"></section>
+                                <section class="nXQl30a4qw1osTKbT3IO" id="menu">
+                                    <header data-test="section-header" class="yTP15dQeBCtN8gZPWtKV">
+                                        <div class="RFGzLM0dYfPknxoHIVaq">
+                                            <h2 class="n3VjEYZ90eGAL7bL007A ze3KHsQkhobLPh5Iyewb">Menu</h2>
+                                        </div>
+                                    </header>
+                                    <div class="WImlFSjDgdNUTAt7_x74" data-test="no-menu-message">@Model.Menu</div>
+                                </section>
+                                <section class="nXQl30a4qw1osTKbT3IO" id="reviews">
+                                    <section data-test="" data-testid="" class="JGUh4CK2UC7xyZKgbGjj">
+                                        <header data-test="section-header" class="yTP15dQeBCtN8gZPWtKV">
+                                            <div class="RFGzLM0dYfPknxoHIVaq">
+                                                <h2 class="n3VjEYZ90eGAL7bL007A ze3KHsQkhobLPh5Iyewb">What people are
+                                                    saying</h2>
+                                            </div>
+                                        </header>
+                                        <section class="mOlk7vMUc00ZG8NnvPLa" data-test="reviews-summary">
+                                            <h3 class="Vc9u58FC1f6EP9KfYKmh G675s8wV9db2HrCwYbYX">Overall ratings and
+                                                reviews</h3>
+                                            <article class="A2NWQVijKsSMmE7ef4JI DUkDy8G7CgNvYcWgJYPN">
+                                                <p class="C_QXTXl0smNI7roKf8ny">Reviews can only be made by diners who
+                                                    have eaten at this restaurant</p>
+                                                <section class="jJfc5fB1lj7nz9KsUxQT cpEOy_DPrbjR6hnlY0ub">
+                                                    <div class="Ky7CQq2rCwG8t_monZNj">
+                                                        <div class="vJWFYZLiWZbHIB0Hwa83" role="img"
+                                                            aria-label="5 stars">
+                                                            <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_"><i
+                                                                    class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                    aria-hidden="true" tab-index="-1"
+                                                                    focusable="no"></i></div>
+                                                            <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_"><i
+                                                                    class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                    aria-hidden="true" tab-index="-1"
+                                                                    focusable="no"></i></div>
+                                                            <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_"><i
+                                                                    class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                    aria-hidden="true" tab-index="-1"
+                                                                    focusable="no"></i></div>
+                                                            <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_"><i
+                                                                    class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                    aria-hidden="true" tab-index="-1"
+                                                                    focusable="no"></i></div>
+                                                            <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_"><i
+                                                                    class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                    aria-hidden="true" tab-index="-1"
+                                                                    focusable="no"></i></div>
+                                                        </div>
+                                                        <div class="Sssqfi7z0_YZugOpowNY">5.0</div>
+                                                    </div>5 based on all time ratings<button data-test="reviews-tooltip"
+                                                        type="button" class="hfz60EaNtPMDGOVkjNQZ"
+                                                        aria-label="reviews tooltip"><span class="pBCjKaMJcpEY4UICo9ol"
+                                                            data-test="icInformation" data-testid="icInformation"><svg
+                                                                viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
+                                                                focusable="false">
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path
+                                                                        d="M12,3 C7.02943725,3 3,7.02943725 3,12 C3,16.9705627 7.02943725,21 12,21 C16.9705627,21 21,16.9705627 21,12 C21,7.02943725 16.9705627,3 12,3 Z M12,19 C8.13400675,19 5,15.8659932 5,12 C5,8.13400675 8.13400675,5 12,5 C15.8659932,5 19,8.13400675 19,12 C19,15.8659932 15.8659932,19 12,19 Z M11.49,11 C11.2138576,11 10.99,11.2238576 10.99,11.5 L10.99,15.5 C10.99,15.7761424 11.2138576,16 11.49,16 L12.49,16 C12.7661424,16 12.99,15.7761424 12.99,15.5 L12.99,11.5 C12.99,11.2238576 12.7661424,11 12.49,11 L11.49,11 Z M11.49,7.5 C11.2138576,7.5 10.99,7.72385763 10.99,8 L10.99,9 C10.99,9.27614237 11.2138576,9.5 11.49,9.5 L12.49,9.5 C12.7661424,9.5 12.99,9.27614237 12.99,9 L12.99,8 C12.99,7.72385763 12.7661424,7.5 12.49,7.5 L11.49,7.5 Z"
+                                                                        fill="#2D333F" fill-rule="nonzero" />
+                                                                </g>
+                                                            </svg></span>
+                                                        <div id=""
+                                                            class="Qp4LqmYWnGQpZupG1O0k LMnpLNlyH7H84CiYMZnQ BQK2XNr3Vn30HjShWjrc"
+                                                            role="tooltip">This restaurant has not received enough
+                                                            recent ratings to display a current ratings snapshot</div>
+                                                    </button>
+                                                </section>
+                                                <ul class="I25ZNFNW5cnwERHCpQSR" data-test="reviews-ratings-list">
+                                                    <li class="P9YupgFvkVLpaYPIVuVH"><span data-testid="rating-value"
+                                                            class="q5KV_STbBbfMbIeljXUO aqBt8GEfHa8tUN4Kud9f">5</span><span
+                                                            data-testid="rating-name"
+                                                            class="cXSUKj_jxryRvMqA0RRe i5Uv2no9QZ9_c6Tv95fw">Food</span>
+                                                    </li>
+                                                    <li class="P9YupgFvkVLpaYPIVuVH"><span data-testid="rating-value"
+                                                            class="q5KV_STbBbfMbIeljXUO aqBt8GEfHa8tUN4Kud9f">4.5</span><span
+                                                            data-testid="rating-name"
+                                                            class="cXSUKj_jxryRvMqA0RRe i5Uv2no9QZ9_c6Tv95fw">Service</span>
+                                                    </li>
+                                                    <li class="P9YupgFvkVLpaYPIVuVH"><span data-testid="rating-value"
+                                                            class="q5KV_STbBbfMbIeljXUO aqBt8GEfHa8tUN4Kud9f">5</span><span
+                                                            data-testid="rating-name"
+                                                            class="cXSUKj_jxryRvMqA0RRe i5Uv2no9QZ9_c6Tv95fw">Ambience</span>
+                                                    </li>
+                                                    <li class="P9YupgFvkVLpaYPIVuVH"><span data-testid="rating-value"
+                                                            class="q5KV_STbBbfMbIeljXUO aqBt8GEfHa8tUN4Kud9f">5</span><span
+                                                            data-testid="rating-name"
+                                                            class="cXSUKj_jxryRvMqA0RRe i5Uv2no9QZ9_c6Tv95fw">Value</span>
+                                                    </li>
+                                                </ul>
+                                            </article>
+                                            <article class="mp8qvmObI3NC_5qMEVQx">
+                                                <ol class="R6hdivLkYnvtJCX2Ivjh" data-test="reviews-histogram">
+                                                    <li class="GjxrJoq1zpmw4hUHh5VQ"><label
+                                                            aria-label="Rated 5 by 100% people"
+                                                            class="N75_cI2oXBLOYkCFfX8M" for="meter-5">5</label><meter
+                                                            id="meter-5" class="z6O0YPGGNilHpmM3oCwI" value="100"
+                                                            min="0" max="100">
+                                                            <div class="_T2RV9WPVjj964tUflEv" style="width:100%"></div>
+                                                        </meter></li>
+                                                    <li class="GjxrJoq1zpmw4hUHh5VQ"><label
+                                                            aria-label="Rated 4 by 0% people"
+                                                            class="N75_cI2oXBLOYkCFfX8M" for="meter-4">4</label><meter
+                                                            id="meter-4" class="z6O0YPGGNilHpmM3oCwI" value="0" min="0"
+                                                            max="100">
+                                                            <div class="_T2RV9WPVjj964tUflEv" style="width:0%"></div>
+                                                        </meter></li>
+                                                    <li class="GjxrJoq1zpmw4hUHh5VQ"><label
+                                                            aria-label="Rated 3 by 0% people"
+                                                            class="N75_cI2oXBLOYkCFfX8M" for="meter-3">3</label><meter
+                                                            id="meter-3" class="z6O0YPGGNilHpmM3oCwI" value="0" min="0"
+                                                            max="100">
+                                                            <div class="_T2RV9WPVjj964tUflEv" style="width:0%"></div>
+                                                        </meter></li>
+                                                    <li class="GjxrJoq1zpmw4hUHh5VQ"><label
+                                                            aria-label="Rated 2 by 0% people"
+                                                            class="N75_cI2oXBLOYkCFfX8M" for="meter-2">2</label><meter
+                                                            id="meter-2" class="z6O0YPGGNilHpmM3oCwI" value="0" min="0"
+                                                            max="100">
+                                                            <div class="_T2RV9WPVjj964tUflEv" style="width:0%"></div>
+                                                        </meter></li>
+                                                    <li class="GjxrJoq1zpmw4hUHh5VQ"><label
+                                                            aria-label="Rated 1 by 0% people"
+                                                            class="N75_cI2oXBLOYkCFfX8M" for="meter-1">1</label><meter
+                                                            id="meter-1" class="z6O0YPGGNilHpmM3oCwI" value="0" min="0"
+                                                            max="100">
+                                                            <div class="_T2RV9WPVjj964tUflEv" style="width:0%"></div>
+                                                        </meter></li>
+                                                </ol>
+                                            </article>
+                                        </section>
+                                        <h3 class="hP7jQ7QM4p5lZTz5cwip aqBt8GEfHa8tUN4Kud9f">Sort by</h3>
+                                        <div class="yk4wNWAkXywknqpm0t4a">
+                                            <div class="_IilYe0lsWaqDW7dkxrE"><select class="is9LDakPlHQNOjflr5T8"
+                                                    id="reviews-sorting" aria-label="Sort by" aria-invalid="false"
+                                                    aria-required="false" aria-describedby="reviews-sorting-error"
+                                                    data-test="reviews-sorting">
+                                                    <option value="newestReview" selected="">Newest</option>
+                                                    <option value="highestRating">Highest rating</option>
+                                                    <option value="lowestRating">Lowest rating</option>
+                                                </select><span class="pBCjKaMJcpEY4UICo9ol SRUhq7TUwryjNTW4epLO"
+                                                    data-test="icDown" data-testid="icDown"><svg viewBox="0 0 24 24"
+                                                        xmlns="http://www.w3.org/2000/svg" focusable="false">
+                                                        <g fill="none" fill-rule="evenodd">
+                                                            <path
+                                                                d="M11,11 L11,14.5 C11,14.7761424 10.7761424,15 10.5,15 L9.5,15 C9.22385763,15 9,14.7761424 9,14.5 L9,10.5 L9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L14.5,9 C14.7761424,9 15,9.22385763 15,9.5 L15,10.5 C15,10.7761424 14.7761424,11 14.5,11 L11,11 Z"
+                                                                fill="#2D333F"
+                                                                transform="translate(12.000000, 12.000000) rotate(-135.000000) translate(-12.000000, -12.000000)" />
+                                                        </g>
+                                                    </svg></span></div>
+                                        </div>
+                                        <h3 class="wuW54eZuhOQv88xHo45Q aqBt8GEfHa8tUN4Kud9f">Filters</h3>
+                                        <nav class="ScsFHXYGfsky9nth4qd_" data-test="reviews-filters">
+                                            <div role="tablist" aria-owns="menu-tab-button-good-for-groups"
+                                                aria-label="Filters" class="FAhD1xcDGZtFWLZYER27"><button
+                                                    id="menu-tab-button-good-for-groups" type="button"
+                                                    class="oj_Zftq0Z_Ts7usxdiLc i0NKLxbx9Xc1RZpQpES0 yKuXW8wWEB4foiww8ftb KyuGcUqbz4REpb1ACgKW n0GonOKcEH4mc03kM4Jz pREW2ZkuYncjapZLLnc3"
+                                                    aria-disabled="false" data-test="reviews-filters-button" role="tab"
+                                                    aria-selected="false" aria-controls="restProfileReviewsContent"
+                                                    tabindex="-1">Good For Groups</button></div>
+                                            <div data-test="overlay" class="EMggxlmw5odOOoVQZSNx crJb_OYULngRToOEW4gj">
+                                            </div>
+                                        </nav>
+                                        <ol aria-label="Reviews List" id="restProfileReviewsContent"
+                                            class="dxLeFbidu7bvjN_7QEC2" data-test="reviews-list">
+                                            <li class="mbK0eco4h3AaJgKLBhb9">
+                                                <section class="Dy9dg_fThB5zI1c7xOg4">
+                                                    <div role="img" aria-label="Avatar photo for OpenTable diner"
+                                                        class="p8Afe04MnS6DogfbdRSJ cpEOy_DPrbjR6hnlY0ub JFEwzXVcRTWNctIP8zQP fay3YS5td0q6mbuTy24Y">
+                                                        JZ</div>
+                                                    <p class="V0gqMM0V5nr33Ha56k83 cpEOy_DPrbjR6hnlY0ub">JoihnnyZ</p>
+                                                    <p class="UGzxfqPCuflxNBXSUvL_ cpEOy_DPrbjR6hnlY0ub">Salt Lake City
+                                                    </p>
+                                                    <div class="SaFk3NbFipF4UzPmNV1S NvQhR1VNbSvDtuZB7N6I"><span
+                                                            class="pBCjKaMJcpEY4UICo9ol o2UafTB5dzw1I85qsyQI"
+                                                            data-test="icReview" data-testid="icReview"><svg
+                                                                viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
+                                                                focusable="false">
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path
+                                                                        d="M19,4 L5,4 C3.8954305,4 3,4.8954305 3,6 L3,15 C3,16.1045695 3.8954305,17 5,17 L11,17 L15.36,20.63 C15.6583354,20.8784924 16.0735425,20.9318337 16.4250008,20.7668198 C16.776459,20.6018059 17.0006314,20.2482681 17,19.86 L17,17 L19,17 C20.1045695,17 21,16.1045695 21,15 L21,6 C21,4.8954305 20.1045695,4 19,4 Z M19,15 L15,15 L15,17.73 L11.72,15 L5,15 L5,6 L19,6 L19,15 Z"
+                                                                        fill="#2D333F" fill-rule="nonzero" />
+                                                                </g>
+                                                            </svg></span>
+                                                        <p class="r8ymyb2xpfV3EowrmtBe cpEOy_DPrbjR6hnlY0ub">57 reviews
+                                                        </p>
+                                                    </div><span class="vL7fCkX8kz3sV1AlGoa4">vip</span>
+                                                </section>
+                                                <section class="ADHOnxYxENUUfweaCdW6">
+                                                    <section class="c3G0xjzKlnaEr6jJr29v cpEOy_DPrbjR6hnlY0ub">
+                                                        <div class="Ky7CQq2rCwG8t_monZNj">
+                                                            <div class="vJWFYZLiWZbHIB0Hwa83" role="img"
+                                                                aria-label="5 stars">
+                                                                <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_">
+                                                                    <i class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                        aria-hidden="true" tab-index="-1"
+                                                                        focusable="no"></i>
+                                                                </div>
+                                                                <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_">
+                                                                    <i class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                        aria-hidden="true" tab-index="-1"
+                                                                        focusable="no"></i>
+                                                                </div>
+                                                                <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_">
+                                                                    <i class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                        aria-hidden="true" tab-index="-1"
+                                                                        focusable="no"></i>
+                                                                </div>
+                                                                <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_">
+                                                                    <i class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                        aria-hidden="true" tab-index="-1"
+                                                                        focusable="no"></i>
+                                                                </div>
+                                                                <div class="m94wF25CP7ISJAaF1Kau NnOa6nwqQSjcrOoqoTc_">
+                                                                    <i class="K2lMVzSi_oGonnJavy9h #da3743"
+                                                                        aria-hidden="true" tab-index="-1"
+                                                                        focusable="no"></i>
+                                                                </div>
+                                                            </div>
+                                                            <div class="Sssqfi7z0_YZugOpowNY">5.0</div>
+                                                        </div>
+                                                        <div class="SaFk3NbFipF4UzPmNV1S pZDUTHhABtOStIz6eCrJ"><span
+                                                                class="pBCjKaMJcpEY4UICo9ol o2UafTB5dzw1I85qsyQI"
+                                                                data-test="icReview" data-testid="icReview"><svg
+                                                                    viewBox="0 0 24 24"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    focusable="false">
+                                                                    <g fill="none" fill-rule="evenodd">
+                                                                        <path
+                                                                            d="M19,4 L5,4 C3.8954305,4 3,4.8954305 3,6 L3,15 C3,16.1045695 3.8954305,17 5,17 L11,17 L15.36,20.63 C15.6583354,20.8784924 16.0735425,20.9318337 16.4250008,20.7668198 C16.776459,20.6018059 17.0006314,20.2482681 17,19.86 L17,17 L19,17 C20.1045695,17 21,16.1045695 21,15 L21,6 C21,4.8954305 20.1045695,4 19,4 Z M19,15 L15,15 L15,17.73 L11.72,15 L5,15 L5,6 L19,6 L19,15 Z"
+                                                                            fill="#2D333F" fill-rule="nonzero" />
+                                                                    </g>
+                                                                </svg></span>
+                                                            <p class="r8ymyb2xpfV3EowrmtBe cpEOy_DPrbjR6hnlY0ub">57
+                                                                reviews</p>
+                                                        </div>
+                                                        <p class="Xfrgl6cRPxn4vwFrFgk1">Dined on April 4, 2021</p>
+                                                    </section><span class="ntw1CLrK8o6PhYhcRux1">overall</span><span
+                                                        class="Q2DbumELlxH4s85dk8Mj">5</span><span
+                                                        class="ntw1CLrK8o6PhYhcRux1">food</span><span
+                                                        class="Q2DbumELlxH4s85dk8Mj">5</span><span
+                                                        class="ntw1CLrK8o6PhYhcRux1">service</span><span
+                                                        class="Q2DbumELlxH4s85dk8Mj">4</span><span
+                                                        class="ntw1CLrK8o6PhYhcRux1">ambience</span><span
+                                                        class="Q2DbumELlxH4s85dk8Mj">5</span>
+                                                    <div class="f3cNr0xDcwvMaBkpjQj5"><span data-test="wrapper-tag"
+                                                            class="t9JcvSL3Bsj1lxMSi3pz h_kb2PFOoyZe1skyGiz9 DUkDy8G7CgNvYcWgJYPN"
+                                                            style="line-height:24px;max-height:72px;overflow:hidden;-webkit-line-clamp:3">Had
+                                                            a great meal here. The food was very good and reasonably
+                                                            priced. The view is awesome only issue I had was the waiter
+                                                            did not listen to how I wanted the food to come out. Not a
+                                                            big deal and he made a change.</span><span
+                                                            class="t9JcvSL3Bsj1lxMSi3pz h_kb2PFOoyZe1skyGiz9 DUkDy8G7CgNvYcWgJYPN"><br /></span>
+                                                    </div>
+                                                    <div class="HL583KqLswHVweEv7sYa"><button type="button"
+                                                            class="NtIWYBPGFDnJpCfd0NEh i5Uv2no9QZ9_c6Tv95fw"><span
+                                                                class="pBCjKaMJcpEY4UICo9ol lrrzQPafT4s88j_9IyJO"
+                                                                data-test="icReport" data-testid="icReport"><svg
+                                                                    viewBox="0 0 24 24"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    focusable="false">
+                                                                    <g fill="none" fill-rule="evenodd">
+                                                                        <path
+                                                                            d="M16,8 L19.55,3.9 C19.7765448,3.64479903 19.9317661,3.33435639 20,3 C20,2.44771525 19.5522847,2 19,2 L6,2 C4.8954305,2 4,2.8954305 4,4 L4,21 C4,21.5522847 4.44771525,22 5,22 C5.55228475,22 6,21.5522847 6,21 L6,14 L19,14 C19.5522847,14 20,13.5522847 20,13 C19.9688341,12.6188683 19.7978781,12.2627099 19.52,12 L16,8 Z M6,12 L6,4 L16.82,4 L14.49,6.69 L13.34,8 L14.5,9.32 L16.86,12 L6,12 Z"
+                                                                            fill="#2D333F" fill-rule="nonzero" />
+                                                                    </g>
+                                                                </svg></span>Report</button></div>
+                                                </section>
+                                            </li>
+                                        </ol>
+                                    </section>
+                                </section>
+                                <section data-test="faqsSection" data-testid="faqsSection"
+                                    class="JGUh4CK2UC7xyZKgbGjj mHExCIEilX8YnT9FQrhx Is756bSNDHFpMx57nRTN">
+                                          <h3 class="Grrir7QQrAh0ItIECtCR ze3KHsQkhobLPh5Iyewb">FAQs</h3>
+
+                                          @foreach (var item in Model.Faqs)
+                                {
+                                    <div class="rfgnzStY00YL85zWwHKL" data-allow-multiple="true" data-test="faqs-item">
+                                        <button id="faqItem-0-name" aria-expanded="false"
+                                                aria-controls="faqItem-0-answer" type="button" class="pr2CmamFAgImay2jIy0p">
+                                            <h4 class="_16e9wMdHK3qF5ujXeTw aqBt8GEfHa8tUN4Kud9f">
+                                                @item.header
+                                            </h4><span class="pBCjKaMJcpEY4UICo9ol MtwLdm3yIVXig0hWAEKT" data-test="icDown"
+                                                       data-testid="icDown">
+                                                <svg viewBox="0 0 24 24"
+                                                     xmlns="http://www.w3.org/2000/svg" focusable="false">
+                                                    <g fill="none" fill-rule="evenodd">
+                                                        <path d="M11,11 L11,14.5 C11,14.7761424 10.7761424,15 10.5,15 L9.5,15 C9.22385763,15 9,14.7761424 9,14.5 L9,10.5 L9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L14.5,9 C14.7761424,9 15,9.22385763 15,9.5 L15,10.5 C15,10.7761424 14.7761424,11 14.5,11 L11,11 Z"
+                                                              fill="#2D333F"
+                                                              transform="translate(12.000000, 12.000000) rotate(-135.000000) translate(-12.000000, -12.000000)" />
+                                                    </g>
+                                                </svg>
+                                            </span>
+                                        </button>
+                                        <div id="faqItem-0-answer" aria-labelledby="faqItem-0-name"
+                                             style="max-height:0px" class="dZ2PMfzUMjNKkJKt7qrf impression-tracked"
+                                             data-index="1" data-itemid="faqItem-0"
+                                             data-name="@item.header">
+                                            <p class="z6HHC_ttWw3OmRYSEnBd i5Uv2no9QZ9_c6Tv95fw">
+                                                Peninsula Teras
+                                                Restaurant is rated 5 stars by 1 OpenTable diners.
+                                            </p>
+                                        </div>
+                                    </div>
+                                }
+                                 
+                                
+                                </section>
+                            </div>
+                            <div class="hBNE0g9NxqM222PB6mKC">
+                                <div class="LFww692eEO9vhXLmvDO1">
+                                    <article data-test="bookable-cta-container" class="lUgYxPBzyhAPIZtOkRIg">
+                                        <h2 class="aegHzpcCdt0DNWjSNAhK hRJSzgf3UJrFyRvw9460">Make a reservation</h2>
+                                        <div class="NDx_n1hkYbSGVsv_noW5">
+                                            <div data-test="bookable-restaurant-profile-party-size-picker"><label
+                                                    for="restProfileSideBarDtpPartySizePicker"
+                                                    class="NdcnwWUaXyG77FdUFd5B">Party Size</label>
+                                                <div class="bnmB257yUbSVRyrz1e1w" value="2"><select
+                                                        aria-label="Party size selector" class="FfVyD58WJTQB9nBaLQRB"
+                                                        data-test="party-size-picker"
+                                                        id="restProfileSideBarDtpPartySizePicker">
+                                                        <option value="1">1 person</option>
+                                                        <option value="2" selected="">2 people</option>
+                                                        <option value="3">3 people</option>
+                                                        <option value="4">4 people</option>
+                                                        <option value="5">5 people</option>
+                                                        <option value="6">6 people</option>
+                                                        <option value="7">7 people</option>
+                                                        <option value="8">8 people</option>
+                                                        <option value="9">9 people</option>
+                                                        <option value="10">10 people</option>
+                                                        <option value="11">11 people</option>
+                                                        <option value="12">12 people</option>
+                                                        <option value="13">13 people</option>
+                                                        <option value="14">14 people</option>
+                                                        <option value="15">15 people</option>
+                                                        <option value="16">16 people</option>
+                                                        <option value="17">17 people</option>
+                                                        <option value="18">18 people</option>
+                                                        <option value="19">19 people</option>
+                                                        <option value="20">20 people</option>
+                                                    </select>
+                                                    <div class="DnYuMC7SX0ktW_eyFLZl aqBt8GEfHa8tUN4Kud9f sQLQpbSFdfqeyxPTRStA"
+                                                        data-testid="party-size-picker-overlay">
+                                                        <div class="ZKMlkp7pRERrDdyKBOsh">
+                                                            <div class="mFqn9avpnEk4DaaVV4UE">2 people</div><span
+                                                                class="pBCjKaMJcpEY4UICo9ol kcldsUQv4uHKDVPb9pZQ"
+                                                                data-test="icDown" data-testid="icDown"
+                                                                aria-hidden="true"><svg viewBox="0 0 24 24"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    focusable="false">
+                                                                    <g fill="none" fill-rule="evenodd">
+                                                                        <path
+                                                                            d="M11,11 L11,14.5 C11,14.7761424 10.7761424,15 10.5,15 L9.5,15 C9.22385763,15 9,14.7761424 9,14.5 L9,10.5 L9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L14.5,9 C14.7761424,9 15,9.22385763 15,9.5 L15,10.5 C15,10.7761424 14.7761424,11 14.5,11 L11,11 Z"
+                                                                            fill="#2D333F"
+                                                                            transform="translate(12.000000, 12.000000) rotate(-135.000000) translate(-12.000000, -12.000000)" />
+                                                                    </g>
+                                                                </svg></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr class="j1tQ7DBGfGnD2zrPb89N uOj2t5hNfVbs1Boi0IQ3" />
+                                            <div class="rOIUZ5qkIwRlxf0JYgcu"><label
+                                                    for="restProfileSideBarDtpDayPicker"
+                                                    class="r3iP6wRLGf38JL7DoM1r">Date</label><label
+                                                    for="restProfileSideBartimePickerDtpPicker"
+                                                    class="zl16l9w1tSWt9GgM1sGQ">Time</label></div>
+                                            <div class="VaVawDCynwZrm3Y9Fc_X"
+                                                data-test="bookable-restaurant-profile-day-picker">
+                                                <div class="rBIdJKnW2cggQEFzDqe4">
+                                                    <div class="y1AHQwkbSQMgk5YGVoJo">
+                                                        <div class="_V_Dcm1l3MX6RQLGwjxy Wv5MuS79JoOmCROPWpaI"
+                                                            role="button" tabindex="0" aria-label="Date selector"
+                                                            aria-expanded="false" data-test="day-picker"
+                                                            data-testid="day-picker-overlay"
+                                                            id="restProfileSideBarDtpDayPicker">
+                                                            <div class="PT27qfQ4KoNGfuIAncyk">
+                                                                <div class="dwN7MVZqX2aZLh4E2Dav">
+                                                                    <div class="zgAtBiHslksiJOeO0qHP">May 4, 2023</div>
+                                                                    <span
+                                                                        class="pBCjKaMJcpEY4UICo9ol UlAoY3i9eswcvtJ8arC9"
+                                                                        data-test="icDown" data-testid="icDown"
+                                                                        aria-hidden="true"><svg viewBox="0 0 24 24"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                            focusable="false">
+                                                                            <g fill="none" fill-rule="evenodd">
+                                                                                <path
+                                                                                    d="M11,11 L11,14.5 C11,14.7761424 10.7761424,15 10.5,15 L9.5,15 C9.22385763,15 9,14.7761424 9,14.5 L9,10.5 L9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L14.5,9 C14.7761424,9 15,9.22385763 15,9.5 L15,10.5 C15,10.7761424 14.7761424,11 14.5,11 L11,11 Z"
+                                                                                    fill="#2D333F"
+                                                                                    transform="translate(12.000000, 12.000000) rotate(-135.000000) translate(-12.000000, -12.000000)" />
+                                                                            </g>
+                                                                        </svg></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="A6LUjOVAl1NHEauGhs4w"
+                                                            data-test="day-picker-component-wrapper">
+                                                            <div class="IXvY8vOGLuI7qhuUOdaJ" aria-label="Loading..."
+                                                                aria-live="assertive" data-test="loading-spinner">
+                                                                <div data-test="day-picker-loading-spinner"
+                                                                    data-testid="day-picker-loading-spinner"
+                                                                    class="FXWiKrDWoSgK42I5yY6K m3ta_zlcJhRFQfT8hsfc">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="rBIdJKnW2cggQEFzDqe4"
+                                                    data-test="bookable-restaurant-profile-time-picker">
+                                                    <div class="vi82VMK8sC0FGmJW0eiQ"><select
+                                                            class="TxpENin57omlyGS8c0YB" aria-label="Time selector"
+                                                            data-test="time-picker"
+                                                            id="restProfileSideBartimePickerDtpPicker">
+                                                            <option value="2000-02-01T15:00:00">3:00 PM</option>
+                                                            <option value="2000-02-01T15:30:00">3:30 PM</option>
+                                                            <option value="2000-02-01T16:00:00">4:00 PM</option>
+                                                            <option value="2000-02-01T16:30:00">4:30 PM</option>
+                                                            <option value="2000-02-01T17:00:00">5:00 PM</option>
+                                                            <option value="2000-02-01T17:30:00">5:30 PM</option>
+                                                            <option value="2000-02-01T18:00:00">6:00 PM</option>
+                                                            <option value="2000-02-01T18:30:00">6:30 PM</option>
+                                                            <option value="2000-02-01T19:00:00" selected="">7:00 PM
+                                                            </option>
+                                                            <option value="2000-02-01T19:30:00">7:30 PM</option>
+                                                            <option value="2000-02-01T20:00:00">8:00 PM</option>
+                                                            <option value="2000-02-01T20:30:00">8:30 PM</option>
+                                                            <option value="2000-02-01T21:00:00">9:00 PM</option>
+                                                            <option value="2000-02-01T21:30:00">9:30 PM</option>
+                                                            <option value="2000-02-01T22:00:00">10:00 PM</option>
+                                                            <option value="2000-02-01T22:30:00">10:30 PM</option>
+                                                            <option value="2000-02-01T23:00:00">11:00 PM</option>
+                                                            <option value="2000-02-01T23:30:00">11:30 PM</option>
+                                                        </select>
+                                                        <div class="w3XtRVrlxAz393JBTOPD hxPpiCIW7s_oqgRYQCg9"
+                                                            data-testid="time-picker-overlay">
+                                                            <div class="pyTvW4eSbvBIxGvpcWbw">
+                                                                <div class="o1iksL4y6p0bvZMooIHD w3XtRVrlxAz393JBTOPD">
+                                                                    7:00 PM</div><span
+                                                                    class="pBCjKaMJcpEY4UICo9ol w5mVDvqHJtjCJWxhRpew"
+                                                                    data-test="icDown" data-testid="icDown"
+                                                                    aria-hidden="true"><svg viewBox="0 0 24 24"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                        focusable="false">
+                                                                        <g fill="none" fill-rule="evenodd">
+                                                                            <path
+                                                                                d="M11,11 L11,14.5 C11,14.7761424 10.7761424,15 10.5,15 L9.5,15 C9.22385763,15 9,14.7761424 9,14.5 L9,10.5 L9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L14.5,9 C14.7761424,9 15,9.22385763 15,9.5 L15,10.5 C15,10.7761424 14.7761424,11 14.5,11 L11,11 Z"
+                                                                                fill="#2D333F"
+                                                                                transform="translate(12.000000, 12.000000) rotate(-135.000000) translate(-12.000000, -12.000000)" />
+                                                                        </g>
+                                                                    </svg></span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="orZ1H54SLxa55rLJ35P6">
+                                                <hr class="j1tQ7DBGfGnD2zrPb89N EA70U0ovSZpsWMnulobS" />
+                                                <hr class="j1tQ7DBGfGnD2zrPb89N EA70U0ovSZpsWMnulobS" />
+                                            </div>
+                                            <div class="UZ_e0x4iWqdD2wWEBas0"><button type="button"
+                                                    class="oj_Zftq0Z_Ts7usxdiLc WkATSvkvJnLhgjlINRzg n0GonOKcEH4mc03kM4Jz pREW2ZkuYncjapZLLnc3"
+                                                    aria-disabled="false" data-test="dtp-picker-card-find-button"
+                                                    aria-label="Find a time" tabindex="0">Find a time</button></div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <section data-test="restaurant-details" class="kS2kgQfnKbbEbghSQU6P">
+                                    <div class="IFi4OhmkMqN3xblTfatl">
+                                        <section data-test="restaurant-google-map" class="nELT5kx9JBZNrb3zeMmG"><a
+                                                target="_blank"
+                                                href="https://www.google.com/maps/dir/?api=1&amp;destination=Peninsula%20Teras%20Restaurant%20No%3A111%20Tersane%20Cad.%20%20Istanbul%2C%20IB%2034440"
+                                                rel="noopener noreferrer" data-testid="google-map-anchor"
+                                                aria-label="Link to Google Map for Peninsula Teras Restaurant"
+                                                class="EnmGZ9bboGl0IB7mJOVb"><img
+                                                    data-test="restaurant-google-map-image"
+                                                    alt="Google Map for Peninsula Teras Restaurant"
+                                                    src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyBHDlZeuOrKam8hwQCouMlwI-hNAqacPtM&amp;size=288x144&amp;markers=color%3A0x6AADCC%7C41.0221140%2C28.9749680&amp;signature=VzZGweOM44Nh-3PLXDqRR2ZEXSQ="
+                                                    class="W2ynpK7yvgOPIncS8dXX" /><span
+                                                    class="MD5GwFAdWcezgcAHkYk9"><span class="pBCjKaMJcpEY4UICo9ol"
+                                                        data-test="icLocation" data-testid="icLocation"><svg
+                                                            viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
+                                                            focusable="false">
+                                                            <g fill="none" fill-rule="evenodd">
+                                                                <path
+                                                                    d="M12,2 C16.418278,2 20,5.581722 20,10 C20,12.8133333 17.5666667,16.59 12.7,21.33 C12.3111565,21.7111429 11.6888435,21.7111429 11.3,21.33 C6.43333333,16.59 4,12.8133333 4,10 C4,5.581722 7.581722,2 12,2 Z M12,4 C8.6862915,4 6,6.6862915 6,10 C6,11.21 6.8,14 12,19.21 C17.2,14 18,11.21 18,10 C18,6.6862915 15.3137085,4 12,4 Z M12,7 C13.6568542,7 15,8.34314575 15,10 C15,11.6568542 13.6568542,13 12,13 C10.3431458,13 9,11.6568542 9,10 C9,8.34314575 10.3431458,7 12,7 Z M12,9 C11.4477153,9 11,9.44771525 11,10 C11,10.5522847 11.4477153,11 12,11 C12.5522847,11 13,10.5522847 13,10 C13,9.44771525 12.5522847,9 12,9 Z"
+                                                                    fill="#2D333F" />
+                                                            </g>
+                                                        </svg></span>
+                                                    <p class="aAmRZnL9EescJ80holSh">No:111 Tersane Cad., Istanbul, IB
+                                                        34440</p>
+                                                </span></a></section>
+                                        <div>
+                                            <h4 class="b0VrPVenhe9jJVYrbINK aqBt8GEfHa8tUN4Kud9f">Additional information
+                                            </h4>
+                                            <div class="oEq0FbNRsdySEbkz88DS">
+                                                <ul class="ZyMjoKRZyYgHEI3nRlzv">
+                                                    <li class="sLBJlww5dQUKh9NaUejA">
+                                                        <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                class="pBCjKaMJcpEY4UICo9ol" data-test="icNeighborhood"
+                                                                data-testid="icNeighborhood"><svg viewBox="0 0 24 24"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    focusable="false">
+                                                                    <g fill="none" fill-rule="evenodd">
+                                                                        <path
+                                                                            d="M11.0042221,7.00000436 C11.046625,6.34790658 11.405963,5.75411959 11.9710085,5.41509227 L14.9710085,3.61509227 C15.6043733,3.23507341 16.3956267,3.23507341 17.0289915,3.61509227 L20.0289915,5.41509227 C20.6314023,5.77653877 21,6.42755242 21,7.13007812 L21,17.9976974 C21,19.1022669 20.1045695,19.9976974 19,19.9976974 L11.0968245,19.9976974 C11.0647419,19.9992266 11.0324613,20 11,20 L5,20 C3.8954305,20 3,19.1045695 3,18 L3,9 C3,7.8954305 3.8954305,7 5,7 L11,7 C11.0014077,7 11.0028151,7.00000145 11.0042221,7.00000436 Z M11,9 L5,9 L5,18 L11,18 L11,9 Z M13,7 L13,18.0000782 L19,18.0000782 L19,7 L16,5.07741671 L13,7 Z M7.5,11 L8.5,11 C8.77614237,11 9,11.2238576 9,11.5 L9,12.5 C9,12.7761424 8.77614237,13 8.5,13 L7.5,13 C7.22385763,13 7,12.7761424 7,12.5 L7,11.5 C7,11.2238576 7.22385763,11 7.5,11 Z M7.5,14 L8.5,14 C8.77614237,14 9,14.2238576 9,14.5 L9,15.5 C9,15.7761424 8.77614237,16 8.5,16 L7.5,16 C7.22385763,16 7,15.7761424 7,15.5 L7,14.5 C7,14.2238576 7.22385763,14 7.5,14 Z M15.5,11 L16.5,11 C16.7761424,11 17,11.2238576 17,11.5 L17,12.5 C17,12.7761424 16.7761424,13 16.5,13 L15.5,13 C15.2238576,13 15,12.7761424 15,12.5 L15,11.5 C15,11.2238576 15.2238576,11 15.5,11 Z M15.5,14 L16.5,14 C16.7761424,14 17,14.2238576 17,14.5 L17,15.5 C17,15.7761424 16.7761424,16 16.5,16 L15.5,16 C15.2238576,16 15,15.7761424 15,15.5 L15,14.5 C15,14.2238576 15.2238576,14 15.5,14 Z M15.5,8 L16.5,8 C16.7761424,8 17,8.22385763 17,8.5 L17,9.5 C17,9.77614237 16.7761424,10 16.5,10 L15.5,10 C15.2238576,10 15,9.77614237 15,9.5 L15,8.5 C15,8.22385763 15.2238576,8 15.5,8 Z"
+                                                                            fill="#2D333F" />
+                                                                    </g>
+                                                                </svg></span>
+                                                            <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                    class="tLGQNTUZlM7f0xfO_o73"
+                                                                    data-test="restaurant-detail-title">Neighborhood</span>
+                                                                <p class="c_qirB1mFl5VRKHYJqTz">Sultanahmet</p>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="sLBJlww5dQUKh9NaUejA">
+                                                        <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                class="pBCjKaMJcpEY4UICo9ol" data-test="icCuisine"
+                                                                data-testid="icCuisine"><svg viewBox="0 0 24 24"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    focusable="false">
+                                                                    <g fill="none" fill-rule="evenodd">
+                                                                        <path
+                                                                            d="M11,2 C12.1045695,2 13,2.8954305 13,4 L13,11 C13,12.1045695 12.1045695,13 11,13 L10,13 L10,21 C10,21.5522847 9.55228475,22 9,22 L8,22 C7.44771525,22 7,21.5522847 7,21 L7,13 L6,13 C4.8954305,13 4,12.1045695 4,11 L4,4 C4,2.8954305 4.8954305,2 6,2 L11,2 Z M11,11 L11,4 L10,4 L10,8.5 C10,8.77614237 9.77614237,9 9.5,9 C9.22385763,9 9,8.77614237 9,8.5 L9,4 L8,4 L8,8.5 C8,8.77614237 7.77614237,9 7.5,9 C7.22385763,9 7,8.77614237 7,8.5 L7,4 L6,4 L6,11 L11,11 Z M19.45,2 C19.7537566,2 20,2.24624339 20,2.55 L20,21 C20,21.5522847 19.5522847,22 19,22 L18,22 C17.4477153,22 17,21.5522847 17,21 L17,17 L16,17 C14.8954305,17 14,16.1045695 14,15 L14,7.45 C14,4.44004811 16.4400481,2 19.45,2 Z M16,15 L18,15 L18,4.32 C16.7823465,4.88673047 16.0026709,6.10692278 16,7.45 L16,15 Z"
+                                                                            fill="#2D333F" fill-rule="nonzero" />
+                                                                    </g>
+                                                                </svg></span>
+                                                            <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                    class="tLGQNTUZlM7f0xfO_o73"
+                                                                    data-test="restaurant-detail-title">Cuisines</span>
+                                                                <p class="c_qirB1mFl5VRKHYJqTz">International, European,
+                                                                    Turkish</p>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="sLBJlww5dQUKh9NaUejA">
+                                                        <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                class="pBCjKaMJcpEY4UICo9ol" data-test="icDiningStyle"
+                                                                data-testid="icDiningStyle"><svg viewBox="0 0 24 24"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    focusable="false">
+                                                                    <g fill="none" fill-rule="evenodd">
+                                                                        <path
+                                                                            d="M11,20 L11,18 L5,18 C4.44771525,18 4,17.5522847 4,17 L4,16.5 C4,16.2238576 4.22385763,16 4.5,16 L19.5,16 C19.7761424,16 20,16.2238576 20,16.5 L20,17 C20,17.5522847 19.5522847,18 19,18 L13,18 L13,20 L14.5,20 C14.7761424,20 15,20.2238576 15,20.5 L15,21.5 C15,21.7761424 14.7761424,22 14.5,22 L9.5,22 C9.22385763,22 9,21.7761424 9,21.5 L9,20.5 C9,20.2238576 9.22385763,20 9.5,20 L11,20 Z M9.00417359,5.4035781 C9.00139886,5.34650803 9,5.28913741 9,5.23151007 C9,3.44679634 10.3431457,2 12,2 C13.6568543,2 15,3.44679634 15,5.23151007 C15,5.28914395 14.9986008,5.34652105 14.9958255,5.40359753 C18.4009049,6.45156941 20.0249274,9.56291275 19.9997109,15 L4.00029014,14.9999824 C3.97502821,9.56287514 5.5990558,6.45153039 9.00417359,5.4035781 Z M11.0648956,5.03309447 C11.3666212,5.01099572 11.6782939,5 11.9999677,5 C12.3216638,5 12.6333575,5.01099726 12.9351029,5.0330991 C12.9775121,4.90683455 13,4.77109821 13,4.63102852 C13,4.00637872 12.5522848,3.5 12,3.5 C11.4477152,3.5 11,4.00637872 11,4.63102852 C11,4.7710965 11.0224873,4.90683124 11.0648956,5.03309447 Z M17.9997832,13 C18.0235785,8.89548434 16.0892795,7 11.9999758,7 C7.91067197,7 5.97637963,8.89548371 6.00021761,12.9999894 L17.9997832,13 Z"
+                                                                            fill="#2D333F" />
+                                                                    </g>
+                                                                </svg></span>
+                                                            <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                    class="tLGQNTUZlM7f0xfO_o73"
+                                                                    data-test="restaurant-detail-title">Dining
+                                                                    style</span>
+                                                                <p class="c_qirB1mFl5VRKHYJqTz">Casual Dining</p>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="sLBJlww5dQUKh9NaUejA">
+                                                        <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                class="pBCjKaMJcpEY4UICo9ol" data-test="icDressCode"
+                                                                data-testid="icDressCode"><svg viewBox="0 0 24 24"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    focusable="false">
+                                                                    <g fill="none" fill-rule="evenodd">
+                                                                        <path
+                                                                            d="M17.58,11.53 C17.4266401,11.1416536 17.3986659,10.7150477 17.5,10.31 L18.68,5.66 C18.9359464,4.6576009 18.3851789,3.62545408 17.41,3.28 L14,2.09 L13.68,3.09 C13.47,3.72 12.89,4.04 11.95,4.04 C11.01,4.04 10.45,3.72 10.24,3.1 L9.92,2.1 L6.59,3.28 C5.61955417,3.62512239 5.06991046,4.65083545 5.32,5.65 L6.49,10.3 C6.59133406,10.7050477 6.5633599,11.1316536 6.41,11.52 L3.08,20 L4.01,20.36 C6.55296711,21.3932302 9.265496,21.9459079 12.01,21.99 C14.7522514,21.9642714 17.4642871,21.4143968 20,20.37 L20.92,20 L17.58,11.53 Z M8.85,4.6 C9.60629927,5.55574661 10.7837814,6.07907199 12,6 C13.2152867,6.07388266 14.3904734,5.55157745 15.15,4.6 L16.74,5.16 L15.56,9.81 C15.56,9.87 15.56,9.93 15.56,10 L8.46,10 C8.46,9.94 8.46,9.88 8.46,9.81 L7.25,5.16 L8.85,4.6 Z M12.05,20 C9.87756989,19.9727298 7.72482585,19.5840868 5.68,18.85 L8.27,12.26 C8.27,12.17 8.32,12.09 8.35,12 L15.63,12 C15.63,12.09 15.63,12.17 15.71,12.26 L18.31,18.86 C16.3022506,19.5891869 14.1859133,19.9745901 12.05,20 Z"
+                                                                            fill="#2D333F" fill-rule="nonzero" />
+                                                                    </g>
+                                                                </svg></span>
+                                                            <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                    class="tLGQNTUZlM7f0xfO_o73"
+                                                                    data-test="restaurant-detail-title">Dress
+                                                                    code</span>
+                                                                <p class="c_qirB1mFl5VRKHYJqTz">Business Casual</p>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="sLBJlww5dQUKh9NaUejA">
+                                                        <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                class="pBCjKaMJcpEY4UICo9ol"
+                                                                data-test="icParkingDetails"
+                                                                data-testid="icParkingDetails"><svg viewBox="0 0 24 24"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    focusable="false">
+                                                                    <g fill="none" fill-rule="evenodd">
+                                                                        <path
+                                                                            d="M12,21 C7.02943725,21 3,16.9705627 3,12 C3,7.02943725 7.02943725,3 12,3 C16.9705627,3 21,7.02943725 21,12 C21,16.9705627 16.9705627,21 12,21 Z M12,19 C15.8659932,19 19,15.8659932 19,12 C19,8.13400675 15.8659932,5 12,5 C8.13400675,5 5,8.13400675 5,12 C5,15.8659932 8.13400675,19 12,19 Z M9.5,7.97771 C9.5,7.85871 9.596,7.74971 9.728,7.74971 L12.546,7.74971 C14.021,7.74971 15.233,8.94871 15.233,10.40071 C15.233,11.88771 14.021,13.09971 12.558,13.09971 L11.059,13.09971 L11.059,15.91771 C11.059,16.03671 10.951,16.14571 10.831,16.14571 L9.728,16.14571 C9.596,16.14571 9.5,16.03671 9.5,15.91771 L9.5,7.97771 Z M12.498,11.63571 C13.17,11.63571 13.685,11.09671 13.685,10.38871 C13.685,9.72971 13.17,9.22571 12.498,9.22571 L11.059,9.22571 L11.059,11.63571 L12.498,11.63571 Z"
+                                                                            fill="#2D333F" />
+                                                                    </g>
+                                                                </svg></span>
+                                                            <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                    class="tLGQNTUZlM7f0xfO_o73"
+                                                                    data-test="restaurant-detail-title">Parking
+                                                                    details</span>
+                                                                <p class="c_qirB1mFl5VRKHYJqTz">None</p>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                                <div class="yaPACPrJ7zjObj49pqZf">
+                                                    <ul class="ZyMjoKRZyYgHEI3nRlzv">
+                                                        <li class="sLBJlww5dQUKh9NaUejA">
+                                                            <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                    class="pBCjKaMJcpEY4UICo9ol" data-test="icNewWindow"
+                                                                    data-testid="icNewWindow"><svg viewBox="0 0 24 24"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                        focusable="false">
+                                                                        <g fill="none" fill-rule="evenodd">
+                                                                            <path
+                                                                                d="M19.5,4 C19.7761424,4 20,4.22385763 20,4.5 L20,9.5 C20,9.77614237 19.7761424,10 19.5,10 L18.5,10 C18.2238576,10 18,9.77614237 18,9.5 L18,7.41 L12.18,13.25 C12.0861167,13.3446563 11.9583188,13.3978992 11.825,13.3978992 C11.6916812,13.3978992 11.5638833,13.3446563 11.47,13.25 L10.76,12.54 C10.6653437,12.4461167 10.6121008,12.3183188 10.6121008,12.185 C10.6121008,12.0516812 10.6653437,11.9238833 10.76,11.83 L16.59,6 L14.5,6 C14.2238576,6 14,5.77614237 14,5.5 L14,4.5 C14,4.22385763 14.2238576,4 14.5,4 L19.5,4 Z M19.5,14 C19.7761424,14 20,14.2238576 20,14.5 L20,18 C20,19.1045695 19.1045695,20 18,20 L6,20 C4.8954305,20 4,19.1045695 4,18 L4,6 C4,4.8954305 4.8954305,4 6,4 L9.5,4 C9.77614237,4 10,4.22385763 10,4.5 L10,5.5 C10,5.77614237 9.77614237,6 9.5,6 L6,6 L6,18 L18,18 L18,14.5 C18,14.2238576 18.2238576,14 18.5,14 L19.5,14 Z"
+                                                                                fill="#2D333F" fill-rule="nonzero" />
+                                                                        </g>
+                                                                    </svg></span>
+                                                                <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                        class="tLGQNTUZlM7f0xfO_o73"
+                                                                        data-test="restaurant-detail-title">Website</span>
+                                                                    <p class="c_qirB1mFl5VRKHYJqTz"><a
+                                                                            class="dVuwbDkxZsqrGYVW7Rt4"
+                                                                            href="http://www.peninsulateras.com/"
+                                                                            target="_blank"
+                                                                            rel="noopener noreferrer">http://www.peninsulateras.com/</a>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                        <li class="sLBJlww5dQUKh9NaUejA">
+                                                            <div class="ZQUIHOcNUeU7wqraxFtp"><span
+                                                                    class="pBCjKaMJcpEY4UICo9ol" data-test="icPhone"
+                                                                    data-testid="icPhone"><svg viewBox="0 0 24 24"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                        focusable="false">
+                                                                        <g fill="none" fill-rule="evenodd">
+                                                                            <path
+                                                                                d="M11.1923881,7.19238816 C13.8147448,7.19238816 16.4332749,7.88002892 19.0481719,9.24949945 C20.3663707,9.93987064 21.1923881,11.3049175 21.1923881,12.7929562 L21.1923881,15.1923882 C21.1923881,16.2969577 20.2969576,17.1923882 19.1923881,17.1923882 L15.8386797,17.1923882 C14.9458358,17.1923934 14.1611367,16.600599 13.9157119,15.74215 C13.5311739,14.3971097 13.051748,13.8597684 12.4435462,13.8590555 L12.2445137,13.8590532 C11.9797378,13.8590516 11.9797378,13.8590516 11.1923912,13.8590525 L10.5908984,13.8590535 L9.94238815,13.8590549 C9.36404307,13.8590549 8.89692488,14.3907007 8.48907223,15.7623886 C8.23683842,16.610715 7.45704835,17.1923882 6.57201858,17.1923882 L3.19238815,17.1923882 C2.08781864,17.1923882 1.19238815,16.2969577 1.19238815,15.1923882 L1.19238815,12.7929431 C1.19239394,11.3049036 2.0184157,9.93985867 3.33661714,9.24949272 C5.95150798,7.88002719 8.5700348,7.19238816 11.1923881,7.19238816 Z M3.19238815,12.7929469 L3.19238815,15.1923882 L6.57201858,15.1923839 C7.20290417,13.0705928 8.26739372,11.8590549 9.94238599,11.8590549 L10.5908946,11.8590535 L11.1923885,11.8590525 C11.9797362,11.8590516 11.9797362,11.8590516 12.2445326,11.8590532 L12.4447301,11.8590562 C14.1421938,11.8610438 15.2370999,13.0882166 15.8386738,15.1923882 L19.1923881,15.1923882 L19.1923881,12.7929562 C19.1923881,12.0489367 18.7793784,11.3664115 18.1202811,11.021227 C15.7828612,9.79707646 13.4802133,9.19238816 11.1923881,9.19238816 C8.90456585,9.19238816 6.60192098,9.79707492 4.26450398,11.0212224 C3.60540308,11.3664055 3.19239104,12.0489299 3.19238815,12.7929469 Z"
+                                                                                fill="#2D333F" fill-rule="nonzero"
+                                                                                transform="translate(11.192388, 12.192388) rotate(-135.000000) translate(-11.192388, -12.192388)" />
+                                                                        </g>
+                                                                    </svg></span>
+                                                                <div class="ewHk9X7lpnWXq9W10wr5"><span
+                                                                        class="tLGQNTUZlM7f0xfO_o73"
+                                                                        data-test="restaurant-detail-title">Phone
+                                                                        number</span>
+                                                                    <p class="c_qirB1mFl5VRKHYJqTz">(0212) 254 70 32</p>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                </div><span><button type="button"
+                                                        class="eyj9ppU14WkdeXeKZ8gF g0lWgM8ntTk6h0qNZTgw k2fNaudRtfwVoh2Hx32z">+
+                                                        View more</button></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </main>
+                <div class="bNixqrdEPosoJ20xhQwP" data-test="footer">
+                    <div class="_YlnjYvD_H7pkvxjXR6N">
+                        <div class="VdNVVtTvChoKtdzWnIFO" data-test="link-farm">
+                            <div class="omgIVLd8K1P51gKl48Xg">
+                                <div class="GI6mKgu6w4LqYr6AE0SR">
+                                    <div class="cw8giTTjsgKZFddt1T8g">Discover</div>
+                                    <ul class="VxJIktrmZkQALWvp0cuX">
+                                        <li>
+                                            <div class="jncKxBNvO6tnBemZvOzv" role="button" tabindex="0">Dining Rewards
+                                            </div>
+                                        </li>
+                                        <li><a href="https://www.opentable.com/m/private-dining-restaurants-in-north-america/"
+                                                class="jncKxBNvO6tnBemZvOzv" aria-label="Private Dining"
+                                                title="Private Dining">Private Dining</a></li>
+                                        <li>
+                                            <div class="jncKxBNvO6tnBemZvOzv" role="button" tabindex="0">Reserve for
+                                                Others</div>
+                                        </li>
+                                        <li><a href="https://www.opentable.com/nearby" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="Restaurants Near Me" title="Restaurants Near Me">Restaurants
+                                                Near Me</a></li>
+                                        <li><a href="https://www.opentable.com/delivery" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="Delivery Near Me" title="Delivery Near Me">Delivery Near
+                                                Me</a></li>
+                                        <li><a href="https://www.opentable.com/open" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="Restaurants Open Now"
+                                                title="Restaurants Open Now">Restaurants Open Now</a></li>
+                                    </ul>
+                                </div>
+                                <div class="GI6mKgu6w4LqYr6AE0SR">
+                                    <div class="cw8giTTjsgKZFddt1T8g">OpenTable</div>
+                                    <ul class="VxJIktrmZkQALWvp0cuX">
+                                        <li>
+                                            <div class="jncKxBNvO6tnBemZvOzv" role="button" tabindex="0">About Us</div>
+                                        </li>
+                                        <li>
+                                            <div class="jncKxBNvO6tnBemZvOzv" role="button" tabindex="0">Blog</div>
+                                        </li>
+                                        <li>
+                                            <div class="jncKxBNvO6tnBemZvOzv" role="button" tabindex="0">Careers</div>
+                                        </li>
+                                        <li>
+                                            <div class="jncKxBNvO6tnBemZvOzv" role="button" tabindex="0">Press</div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="GI6mKgu6w4LqYr6AE0SR">
+                                    <div class="cw8giTTjsgKZFddt1T8g">More</div>
+                                    <ul class="VxJIktrmZkQALWvp0cuX">
+                                        <li><a href="https://app.adjust.com/gh97ibu?redirect=https://itunes.apple.com/app/id296581815?mt=8"
+                                                class="jncKxBNvO6tnBemZvOzv" aria-label="OpenTable for iOS"
+                                                title="OpenTable for iOS">OpenTable for iOS</a></li>
+                                        <li><a href="https://app.adjust.com/dk33pts?redirect=https://play.google.com/store/apps/details?id=com.opentable"
+                                                class="jncKxBNvO6tnBemZvOzv" aria-label="OpenTable for Android"
+                                                title="OpenTable for Android">OpenTable for Android</a></li>
+                                        <li>
+                                            <div class="jncKxBNvO6tnBemZvOzv" role="button" tabindex="0">Affiliate
+                                                Program</div>
+                                        </li>
+                                        <li>
+                                            <div class="jncKxBNvO6tnBemZvOzv" role="button" tabindex="0">Contact Us
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="GI6mKgu6w4LqYr6AE0SR">
+                                    <div class="cw8giTTjsgKZFddt1T8g">Our sites</div>
+                                    <ul class="VxJIktrmZkQALWvp0cuX">
+                                        <li><a href="https://www.opentable.jp" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.jp" title="OpenTable.jp">OpenTable.jp</a></li>
+                                        <li><a href="https://www.opentable.de" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.de" title="OpenTable.de">OpenTable.de</a></li>
+                                        <li><a href="https://www.opentable.es" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.es" title="OpenTable.es">OpenTable.es</a></li>
+                                        <li><a href="https://www.opentable.ca" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.ca" title="OpenTable.ca">OpenTable.ca</a></li>
+                                        <li><a href="https://www.opentable.hk" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.hk" title="OpenTable.hk">OpenTable.hk</a></li>
+                                        <li><a href="https://www.opentable.ie" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.ie" title="OpenTable.ie">OpenTable.ie</a></li>
+                                        <li><a href="https://www.opentable.sg" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.sg" title="OpenTable.sg">OpenTable.sg</a></li>
+                                        <li><a href="https://www.opentable.nl" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.nl" title="OpenTable.nl">OpenTable.nl</a></li>
+                                        <li><a href="https://www.opentable.com.mx" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.com.mx"
+                                                title="OpenTable.com.mx">OpenTable.com.mx</a></li>
+                                        <li><a href="https://www.opentable.co.uk" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.co.uk" title="OpenTable.co.uk">OpenTable.co.uk</a>
+                                        </li>
+                                        <li><a href="https://www.opentable.com.au" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.com.au"
+                                                title="OpenTable.com.au">OpenTable.com.au</a></li>
+                                        <li><a href="https://www.opentable.ae" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.ae" title="OpenTable.ae">OpenTable.ae</a></li>
+                                        <li><a href="https://www.opentable.co.th" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.co.th" title="OpenTable.co.th">OpenTable.co.th</a>
+                                        </li>
+                                        <li><a href="https://www.opentable.it" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.it" title="OpenTable.it">OpenTable.it</a></li>
+                                        <li><a href="https://www.opentable.com.tw" class="jncKxBNvO6tnBemZvOzv"
+                                                aria-label="OpenTable.com.tw"
+                                                title="OpenTable.com.tw">OpenTable.com.tw</a></li>
+                                    </ul>
+                                </div>
+                                <div class="GI6mKgu6w4LqYr6AE0SR">
+                                    <div class="cw8giTTjsgKZFddt1T8g">Businesses</div>
+                                    <div class="SFdK6nVKhpuzKyjI7ZPo"><a href="#" class="ZzYWvWphF_wxc05b2zWf"
+                                            aria-label="Delight more diners" title="Delight more diners">Delight more
+                                            diners<span class="pBCjKaMJcpEY4UICo9ol XjUaOsRlDyUD4rtShdl8"
+                                                data-test="icAdvance" data-testid="icAdvance"><svg viewBox="0 0 24 24"
+                                                    xmlns="http://www.w3.org/2000/svg" focusable="false">
+                                                    <g fill="none" fill-rule="evenodd">
+                                                        <path
+                                                            d="M8.65685425,9.65685425 L8.65685425,15.1568542 C8.65685425,15.4329966 8.43299662,15.6568542 8.15685425,15.6568542 L7.15685425,15.6568542 C6.88071187,15.6568542 6.65685425,15.4329966 6.65685425,15.1568542 L6.65685425,9.15685425 L6.65685425,8.15685425 C6.65685425,7.88071187 6.88071187,7.65685425 7.15685425,7.65685425 L14.1568542,7.65685425 C14.4329966,7.65685425 14.6568542,7.88071187 14.6568542,8.15685425 L14.6568542,9.15685425 C14.6568542,9.43299662 14.4329966,9.65685425 14.1568542,9.65685425 L8.65685425,9.65685425 Z"
+                                                            fill="#2D333F"
+                                                            transform="translate(10.656854, 11.656854) scale(-1, 1) rotate(-45.000000) translate(-10.656854, -11.656854)" />
+                                                    </g>
+                                                </svg></span></a><a href="#" class="ZzYWvWphF_wxc05b2zWf"
+                                            aria-label="Open for Business Blog" title="Open for Business Blog">Open for
+                                            Business Blog<span class="pBCjKaMJcpEY4UICo9ol XjUaOsRlDyUD4rtShdl8"
+                                                data-test="icAdvance" data-testid="icAdvance"><svg viewBox="0 0 24 24"
+                                                    xmlns="http://www.w3.org/2000/svg" focusable="false">
+                                                    <g fill="none" fill-rule="evenodd">
+                                                        <path
+                                                            d="M8.65685425,9.65685425 L8.65685425,15.1568542 C8.65685425,15.4329966 8.43299662,15.6568542 8.15685425,15.6568542 L7.15685425,15.6568542 C6.88071187,15.6568542 6.65685425,15.4329966 6.65685425,15.1568542 L6.65685425,9.15685425 L6.65685425,8.15685425 C6.65685425,7.88071187 6.88071187,7.65685425 7.15685425,7.65685425 L14.1568542,7.65685425 C14.4329966,7.65685425 14.6568542,7.88071187 14.6568542,8.15685425 L14.6568542,9.15685425 C14.6568542,9.43299662 14.4329966,9.65685425 14.1568542,9.65685425 L8.65685425,9.65685425 Z"
+                                                            fill="#2D333F"
+                                                            transform="translate(10.656854, 11.656854) scale(-1, 1) rotate(-45.000000) translate(-10.656854, -11.656854)" />
+                                                    </g>
+                                                </svg></span></a></div>
+                                    <div class="cw8giTTjsgKZFddt1T8g">Join us on</div>
+                                    <div><button type="button" class="w3KOKuG9VqdAgFglQQ96"><img
+                                                src="//cdn.otstatic.com/cfe/12/images/twitter-7d99dc.svg" alt="Twitter"
+                                                class="V9uBJbM5HTqNB1OhSYbg" /></button><button type="button"
+                                            class="w3KOKuG9VqdAgFglQQ96"><img
+                                                src="//cdn.otstatic.com/cfe/12/images/facebook-7e4d6d.svg"
+                                                alt="Facebook" class="V9uBJbM5HTqNB1OhSYbg" /></button><button
+                                            type="button" class="w3KOKuG9VqdAgFglQQ96"><img
+                                                src="//cdn.otstatic.com/cfe/12/images/linkedin-b5ed36.svg"
+                                                alt="Linkedin" class="V9uBJbM5HTqNB1OhSYbg" /></button><button
+                                            type="button" class="w3KOKuG9VqdAgFglQQ96"><img
+                                                src="//cdn.otstatic.com/cfe/12/images/instagram-22dae7.svg"
+                                                alt="Instagram" class="V9uBJbM5HTqNB1OhSYbg" /></button></div>
+                                </div>
+                            </div>
+                            <ul class="G1QrkH3M49s9ElGMJlky QIW_k1gjarmLozvJM8xH">
+                                <li class="aRc9aORW_eMca1uV_kg6">
+                                    <div class="f0dYscn7OBAlppBuueQY gxTt72E2KAtF94kwasUC" role="button" tabindex="0">
+                                        Privacy Policy</div>
+                                </li>
+                                <li class="aRc9aORW_eMca1uV_kg6">
+                                    <div class="f0dYscn7OBAlppBuueQY gxTt72E2KAtF94kwasUC" role="button" tabindex="0">
+                                        Terms of Use</div>
+                                </li>
+                                <li class="aRc9aORW_eMca1uV_kg6">
+                                    <div class="f0dYscn7OBAlppBuueQY gxTt72E2KAtF94kwasUC" role="button" tabindex="0">
+                                        Cookies and Interest-Based Ads</div>
+                                </li>
+                                <li class="aRc9aORW_eMca1uV_kg6">
+                                    <div aria-label="Do Not Sell or Share My Personal Information"
+                                        title="Do Not Sell or Share My Personal Information"
+                                        class="f0dYscn7OBAlppBuueQY gxTt72E2KAtF94kwasUC" role="button" tabindex="0">Do
+                                        Not Sell or Share My Personal Information</div>
+                                </li>
+                                <li class="aRc9aORW_eMca1uV_kg6">
+                                    <div class="f0dYscn7OBAlppBuueQY gxTt72E2KAtF94kwasUC">
+                                        <div aria-label="Cookie Preferences" title="Cookie Preferences"
+                                            class="QH_qTD3UaDTWnAC05nga" role="button" tabindex="0"
+                                            data-test="cookie-preferences-button">Cookie Preferences</div>
+                                    </div>
+                                </li>
+                            </ul><span class="bSE3s2vLjRcYNz_Q7EDf">Copyright © 2023 OpenTable, Inc. 1 Montgomery St Ste
+                                500, San Francisco CA 94104 - All rights reserved.</span>
+                        </div>
+                        <div class="YhWF5u4B7KM9IiBvqTU5" data-test="branding"><span
+                                class="wUDWNgX9ckkS8IIbiQYV">OpenTable is part of Booking Holdings, the world leader in
+                                online travel and related services.</span>
+                            <div class="k7yarr_PdppUq_6IDyxI"><img
+                                    src="//cdn.otstatic.com/cfe/12/images/booking_logo@2x-c25203.png" alt="Booking Logo"
+                                    class="ozx954Mt7VYzsEqtVd87 saIgVuZrponNkbtWxTeN" /><img
+                                    src="//cdn.otstatic.com/cfe/12/images/priceline_logo@2x-a7ceab.png"
+                                    alt="Priceline Logo" class="ozx954Mt7VYzsEqtVd87 uq68Nh0USrJuJcivw4i9" /><img
+                                    src="//cdn.otstatic.com/cfe/12/images/kayak_logo@2x-173559.png" alt="KAYAK Logo"
+                                    class="ozx954Mt7VYzsEqtVd87 Sz5lkH0TObUOOtz2OWOw" /><img
+                                    src="//cdn.otstatic.com/cfe/12/images/agoda_logo@2x-1e2dac.png" alt="Agoda Logo"
+                                    class="ozx954Mt7VYzsEqtVd87 adfApH1vT16xZE72RQOg" /><img
+                                    src="//cdn.otstatic.com/cfe/12/images/rentalcars_logo@2x-2de7b2.png"
+                                    alt="Rentalcars Logo" class="ozx954Mt7VYzsEqtVd87 ecghsoqBsGn8L9QMzFRh" /><img
+                                    src="//cdn.otstatic.com/cfe/12/images/opentable@2x-84bd1c.png" alt="OpenTable Logo"
+                                    class="ozx954Mt7VYzsEqtVd87 Ke1O9zP7SJWdgHj3XaJP" /></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<script src="js/restaurant.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>

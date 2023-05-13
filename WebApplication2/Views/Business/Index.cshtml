@@ -1,0 +1,419 @@
+﻿@model List<WebApplication2.Models.Business>
+@{
+	Random rnd = new Random();
+    ViewData["Title"] = "Home Page";
+}
+
+
+<!-- Start slides -->
+<div class="slider">
+	<div class="cover">
+		<div class="sub-header">Welcome to</div>
+		<h1 class="head">Reservado</h1>
+		<div class="divider center"></div>
+		<p class="m-b-40 head-p">Find your table for any occasion</p>
+
+		<form class="flex-form">
+			<input type="number" id="booktable" class="form-control form-control-lg custom-form-control"
+				   placeholder="Guests" max="20" min="0">
+			<input type="time" id="booktable" class="form-control form-control-lg custom-form-control"
+				   placeholder="time">
+			<input type="date" id="booktable" class="form-control form-control-lg custom-form-control"
+				   placeholder="12/12/12">
+
+			<label class="location-icon" for="from">
+				<img class="icon" src="images/location.png" alt="location">
+			</label>
+
+			<input type="search" placeholder="Restaurant, Cuisine, or Location" id="booktable"
+				   class="form-control form-control-lg custom-form-control">
+			<input type="submit" value="Let's Go" id="booktable" style="color: #fff;"
+				   class="form-control form-control-lg custom-form-control">
+
+		</form>
+
+	</div>
+
+</div>
+<!-- End slides -->
+<!-- Start Menu -->
+<div class="menu-box">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="heading-title text-center">
+					<h2>Restaurant & Cafe</h2>
+					<p>Available for now</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="row inner-menu-box">
+			<div class="col-3 restaurant-filter">
+				<div class="filter-head">
+					<i class="filter-icon"></i>
+					Filter
+					<span class="bordered-text reset-filter" id="resetFilter">Reset Filters</span>
+				</div>
+				<div class="filter-group">
+					<div class="group-head">
+						<i class="feature-icon icon-location"></i>Locations
+						<i class="fa fa-angle-up" aria-expanded="true" data-toggle="collapse"
+						   data-target="#filterLocationContainer"></i>
+						<i class="fa fa-angle-down" aria-expanded="true" data-toggle="collapse"
+						   data-target="#filterLocationContainer"></i>
+					</div>
+					<div class="filter-list collapse in" id="filterLocationContainer" aria-expanded="true"
+						 data-more="6" data-query-key="lokasyonlar">
+						<ul>
+							<li>
+								<label class="icheckbox-label rezervin-icheck">
+									<input type="checkbox" name="" value="all" class="filter-icheck"
+										   data-filter="location">
+									<span>All</span>
+									<span class="remove">Remove</span>
+								</label>
+							</li>
+
+							<li class="">
+								<label class="icheckbox-label rezervin-icheck">
+									<input type="checkbox" name="" value="Beşiktaş" class="filter-icheck"
+										   data-filter="location" data-slug="besiktas">
+									<span> Beşiktaş</span>
+									<span class="remove">Remove</span>
+								</label>
+							</li>
+							<li class="">
+								<label class="icheckbox-label rezervin-icheck">
+									<input type="checkbox" name="" value="Kuruçeşme" class="filter-icheck"
+										   data-filter="location" data-slug="kuruscesme">
+									<span> Kuruçeşme</span>
+									<span class="remove">Remove</span>
+								</label>
+							</li>
+							<li class="">
+								<label class="icheckbox-label rezervin-icheck">
+									<input type="checkbox" name="" value="Kadıköy" class="filter-icheck"
+										   data-filter="location" data-slug="kadiköy">
+									<span> Kadıköy</span>
+									<span class="remove">Remove</span>
+								</label>
+							</li>
+							<li class="">
+								<label class="icheckbox-label rezervin-icheck">
+									<input type="checkbox" name="" value="Sultanahmet" class="filter-icheck"
+										   data-filter="location" data-slug="sultanahmet">
+									<span> Sultanahmet</span>
+									<span class="remove">Remove</span>
+								</label>
+							</li>
+
+						</ul>
+
+						<span class="bordered-text more">All locations</span>
+						<span class="bordered-text less">Show more</span>
+					</div>
+					<div class="filter-group">
+						<div class="group-head">
+							<i class="feature-icon icon-kitchen"></i>Cuisines
+							<i class="fa fa-angle-up" aria-expanded="true" data-toggle="collapse"
+							   data-target="#filterKitchenContainer"></i>
+							<i class="fa fa-angle-down" aria-expanded="true" data-toggle="collapse"
+							   data-target="#filterKitchenContainer"></i>
+						</div>
+						<div class="filter-list collapse in" id="filterKitchenContainer" aria-expanded="true"
+							 data-more="6" data-query-key="mutfak-turleri">
+							<ul>
+								<li>
+									<label class="icheckbox-label rezervin-icheck">
+										<input type="checkbox" name="" value="all" class="filter-icheck"
+											   data-filter="kitchen">
+										<span>All</span>
+										<span class="remove">Remove</span>
+									</label>
+								</li>
+								<li class="">
+									<label class="icheckbox-label rezervin-icheck">
+										<input type="checkbox" name="" value="Izgara &amp; Steak"
+											   class="filter-icheck" data-filter="kitchen" data-slug="izgara-steak">
+										<span>Izgara &amp; Steak</span>
+										<span class="remove">Remove</span>
+									</label>
+								</li>
+								<li class="">
+									<label class="icheckbox-label rezervin-icheck">
+										<input type="checkbox" name="" value="Indian" class="filter-icheck"
+											   data-filter="kitchen" data-slug="indian">
+										<span>Indian</span>
+										<span class="remove">Remove</span>
+									</label>
+								</li>
+							</ul>
+							<span class="bordered-text more">All Cuisines</span>
+							<span class="bordered-text less">Show more</span>
+						</div>
+					</div>
+					<div class="filter-group">
+						<div class="group-head">
+							<i class="feature-icon icon-price"></i>Fiyat Aralığı
+							<i class="fa fa-angle-up" aria-expanded="true" data-toggle="collapse"
+							   data-target="#filterPriceContainer"></i>
+							<i class="fa fa-angle-down" aria-expanded="true" data-toggle="collapse"
+							   data-target="#filterPriceContainer"></i>
+						</div>
+						<div class="filter-list collapse in filter-btn-group-wrapper" id="filterPriceContainer"
+							 aria-expanded="true">
+							<div class="filter-btn-group">
+								<div class="filter-item">
+									<button class="filter-button" type="button" data-price="all" data-filter="price"
+											class="btn btn-filter btn-success active">
+										All
+									</button>
+								</div>
+								<div class="filter-item" data-container="body" data-toggle="popover"
+									 data-trigger="hover" data-placement="top" data-content="75 TL&#39;ye kadar.">
+									<button class="filter-button" type="button" data-price="100" data-filter="price"
+											class="btn btn-filter">
+										₺</span>
+									</button>
+								</div>
+								<div class="filter-item" data-container="body" data-toggle="popover"
+									 data-trigger="hover" data-placement="top" data-content="75-125 TL arası.">
+									<button class="filter-button" type="button" data-price="200" data-filter="price"
+											class="btn btn-filter">
+										₺₺</span><span class="turkish-lira"></span>
+									</button>
+								</div>
+								<div class="filter-item" data-container="body" data-toggle="popover"
+									 data-trigger="hover" data-placement="top" data-content="125-200 TL arası.">
+									<button class="filter-button" type="button" data-price="300" data-filter="price"
+											class="btn btn-filter">
+										₺₺₺<span class="turkish-lira"></span><span class="turkish-lira"></span>
+									</button>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="filter-group">
+						<div class="group-head">
+							<i class="feature-icon icon-area"></i>Restaurant area
+							<i class="fa fa-angle-up" aria-expanded="true" data-toggle="collapse"
+							   data-target="#filterAreaContainer"></i>
+							<i class="fa fa-angle-down" aria-expanded="true" data-toggle="collapse"
+							   data-target="#filterAreaContainer"></i>
+						</div>
+						<div class="filter-list collapse in" id="filterAreaContainer" aria-expanded="true"
+							 data-more="5" data-query-key="alan-secimi">
+							<ul>
+								<li>
+									<label class="icheckbox-label rezervin-icheck">
+										<input type="checkbox" name="" value="all" class="filter-icheck"
+											   data-filter="area">
+										<span>All</span>
+										<span class="remove">Remove</span>
+									</label>
+								</li>
+								<li class="">
+									<label class="icheckbox-label rezervin-icheck">
+										<input type="checkbox" name="" value="Garden" class="filter-icheck"
+											   data-filter="area" data-slug="garden">
+										<span>Garden</span>
+										<span class="remove">Remove</span>
+									</label>
+								</li>
+								<li class="">
+									<label class="icheckbox-label rezervin-icheck">
+										<input type="checkbox" name="" value="Terrace" class="filter-icheck"
+											   data-filter="area" data-slug="terrace">
+										<span>Terrace</span>
+										<span class="remove">Remove</span>
+									</label>
+								</li>
+							</ul>
+							<span class="bordered-text more">All Areas</span>
+							<span class="bordered-text less">Show more</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-9">
+				<div class="tab-content" id="v-pills-tabContent">
+					<div class="tab-pane fade show active" id="v-pills-home" role="tabpanel"
+						 aria-labelledby="v-pills-home-tab">
+						<div class="row">
+							@foreach (var item in Model)
+								{
+								<div class="col-lg-4 col-md-6 special-grid drinks">
+									<a href="business/detail?id=@item.id">
+										<div class="gallery-single fix">
+											<img src="@item.Photos.FirstOrDefault().path" class="img-fluid" alt="Image">
+											<div class="text-left">
+												<h4 class="text-center">@item.Name </h4>
+												<p class="text-bottom">★★☆☆☆ 2 reviews</p>
+												<h5> @item.Type |
+													@for (int i = 0; i < item.PriceRating; i++)
+													{
+														<span>₺</span>
+													 }
+													 | @item.District </h5>
+												<ul>
+													<li class="out-reserve"><a class="reserve" href="">3.00PM</a></li>
+													<li class="out-reserve"><a class="reserve" href="">4.30PM</a></li>
+													<li class="out-reserve"><a class="reserve" href="">6.00PM</a></li>
+												</ul>
+											</div>
+										</div>
+									</a>
+								</div>
+
+
+
+							}
+
+						
+
+
+						</div>
+
+					</div>
+
+
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- End Menu -->
+<!-- Start Gallery -->
+<div class="gallery-box">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="heading-title text-center">
+					<h2>Restaurant Categories</h2>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
+				</div>
+			</div>
+		</div>
+		<div class="tz-gallery">
+			<div class="row">
+				<div class="col-sm-12 col-md-4 col-lg-4">
+					<a class="lightbox" href="images/gallery-img-01.jpg">
+						<img class="img-fluid" src="images/gallery-img-01.jpg" alt="Gallery Images">
+						<h4 class="text-center">Meat Restaurants</h4>
+					</a>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4">
+					<a class="lightbox" href="images/gallery-img-02.jpg">
+						<img class="img-fluid" src="images/gallery-img-02.jpg" alt="Gallery Images">
+						<h4 class="text-center">Breakfast & Brunch</h4>
+					</a>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4">
+					<a class="lightbox" href="images/gallery-img-03.jpg">
+						<img class="img-fluid" src="images/gallery-img-03.jpg" alt="Gallery Images">
+						<h4 class="text-center">Romantic Restaurants</h4>
+					</a>
+				</div>
+				<div class="col-sm-12 col-md-4 col-lg-4">
+					<a class="lightbox" href="images/gallery-img-04.jpg">
+						<img class="img-fluid" src="images/gallery-img-04.jpg" alt="Gallery Images">
+						<h4 class="text-center">Seafood Restaurants</h4>
+					</a>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4">
+					<a class="lightbox" href="images/gallery-img-05.jpg">
+						<img class="img-fluid" src="images/gallery-img-05.jpg" alt="Gallery Images">
+						<h4 class="text-center">Italian Restaurants</h4>
+					</a>
+				</div>
+				<div class="col-sm-6 col-md-4 col-lg-4">
+					<a class="lightbox" href="images/gallery-img-06.jpg">
+						<img class="img-fluid" src="images/gallery-img-06.jpg" alt="Gallery Images">
+						<h4 class="text-center">Cafes</h4>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- End Gallery -->
+<!-- Start Customer Reviews -->
+<div class="customer-reviews-box">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="heading-title text-center">
+					<h2>Special Offers</h2>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-8 mr-auto ml-auto text-center">
+				<div id="reviews" class="carousel slide" data-ride="carousel">
+					<div class="carousel-inner mt-4">
+						<div class="carousel-item text-center active">
+							<div class="img-box p-1 border rounded-circle m-auto">
+								<img class="d-block w-100 rounded-circle" src="images/quotations-button.png" alt="">
+							</div>
+							<h5 class="mt-4 mb-0">
+								<strong class="text-warning text-uppercase">Paul Mitchel</strong>
+							</h5>
+							<h6 class="text-dark m-0">Web Developer</h6>
+							<p class="m-0 pt-3">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem
+								tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel,
+								semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius
+								nibh non aliquet.
+							</p>
+						</div>
+						<div class="carousel-item text-center">
+							<div class="img-box p-1 border rounded-circle m-auto">
+								<img class="d-block w-100 rounded-circle" src="images/quotations-button.png" alt="">
+							</div>
+							<h5 class="mt-4 mb-0">
+								<strong class="text-warning text-uppercase">Steve Fonsi</strong>
+							</h5>
+							<h6 class="text-dark m-0">Web Designer</h6>
+							<p class="m-0 pt-3">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem
+								tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel,
+								semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius
+								nibh non aliquet.
+							</p>
+						</div>
+						<div class="carousel-item text-center">
+							<div class="img-box p-1 border rounded-circle m-auto">
+								<img class="d-block w-100 rounded-circle" src="images/quotations-button.png" alt="">
+							</div>
+							<h5 class="mt-4 mb-0">
+								<strong class="text-warning text-uppercase">Daniel vebar</strong>
+							</h5>
+							<h6 class="text-dark m-0">Seo Analyst</h6>
+							<p class="m-0 pt-3">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem
+								tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel,
+								semper malesuada ante. Idac bibendum scelerisque non non purus. Suspendisse varius
+								nibh non aliquet.
+							</p>
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#reviews" role="button" data-slide="prev">
+						<i class="fa fa-angle-left" aria-hidden="true"></i>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#reviews" role="button" data-slide="next">
+						<i class="fa fa-angle-right" aria-hidden="true"></i>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- End Customer Reviews -->

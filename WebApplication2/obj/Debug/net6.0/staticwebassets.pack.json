@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\Restaurant.css",
+      "PackagePath": "staticwebassets\\css\\Restaurant.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.css",
+      "PackagePath": "staticwebassets\\css\\classic.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.date.css",
+      "PackagePath": "staticwebassets\\css\\classic.date.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.time.css",
+      "PackagePath": "staticwebassets\\css\\classic.time.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login2.css",
+      "PackagePath": "staticwebassets\\css\\login2.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login3.css",
+      "PackagePath": "staticwebassets\\css\\login3.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login4.css",
+      "PackagePath": "staticwebassets\\css\\login4.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login5.css",
+      "PackagePath": "staticwebassets\\css\\login5.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\superslides.css",
+      "PackagePath": "staticwebassets\\css\\superslides.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\aboutus.png",
+      "PackagePath": "staticwebassets\\images\\aboutus.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\all-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\all-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\asuman.webp",
+      "PackagePath": "staticwebassets\\images\\asuman.webp"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\avt-img.jpg",
+      "PackagePath": "staticwebassets\\images\\avt-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-01.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-03.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-04.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-05.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-06.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-07.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-08.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-09.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\cupofjoy.jpeg",
+      "PackagePath": "staticwebassets\\images\\cupofjoy.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\cupofjoy1.jpeg",
+      "PackagePath": "staticwebassets\\images\\cupofjoy1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\dem.jpeg",
+      "PackagePath": "staticwebassets\\images\\dem.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-01.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-03.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-04.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-05.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-06.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-img-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-01.jpg",
+      "PackagePath": "staticwebassets\\images\\img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-03.jpg",
+      "PackagePath": "staticwebassets\\images\\img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-04.jpg",
+      "PackagePath": "staticwebassets\\images\\img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-05.jpg",
+      "PackagePath": "staticwebassets\\images\\img-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-06.jpg",
+      "PackagePath": "staticwebassets\\images\\img-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-07.jpg",
+      "PackagePath": "staticwebassets\\images\\img-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-08.jpg",
+      "PackagePath": "staticwebassets\\images\\img-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-09.jpg",
+      "PackagePath": "staticwebassets\\images\\img-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\inner-blog-img.jpg",
+      "PackagePath": "staticwebassets\\images\\inner-blog-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-01.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-03.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\qt-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\qt-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\quotations-button.png",
+      "PackagePath": "staticwebassets\\images\\quotations-button.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res.jpg",
+      "PackagePath": "staticwebassets\\images\\res.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res1.webp",
+      "PackagePath": "staticwebassets\\images\\res1.webp"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res2.png",
+      "PackagePath": "staticwebassets\\images\\res2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res3.jpeg",
+      "PackagePath": "staticwebassets\\images\\res3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res4.jpeg",
+      "PackagePath": "staticwebassets\\images\\res4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res5.jpeg",
+      "PackagePath": "staticwebassets\\images\\res5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res6.jpeg",
+      "PackagePath": "staticwebassets\\images\\res6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest.png",
+      "PackagePath": "staticwebassets\\images\\rest.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest1.png",
+      "PackagePath": "staticwebassets\\images\\rest1.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest2.jpg",
+      "PackagePath": "staticwebassets\\images\\rest2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\restaurant.jpg",
+      "PackagePath": "staticwebassets\\images\\restaurant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-01.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-02.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-03.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider.jpeg",
+      "PackagePath": "staticwebassets\\images\\slider.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss.png",
+      "PackagePath": "staticwebassets\\images\\ss.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss2.png",
+      "PackagePath": "staticwebassets\\images\\ss2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss3.png",
+      "PackagePath": "staticwebassets\\images\\ss3.png"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-01.jpg",
+      "PackagePath": "staticwebassets\\images\\stuff-img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\stuff-img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-03.jpg",
+      "PackagePath": "staticwebassets\\images\\stuff-img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-04.jpg",
+      "PackagePath": "staticwebassets\\images\\stuff-img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-05.jpg",
+      "PackagePath": "staticwebassets\\images\\stuff-img-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-06.jpg",
+      "PackagePath": "staticwebassets\\images\\stuff-img-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\baguetteBox.min.js",
+      "PackagePath": "staticwebassets\\js\\baguetteBox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\images-loded.min.js",
+      "PackagePath": "staticwebassets\\js\\images-loded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery.mapify.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mapify.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery.superslides.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.superslides.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\legacy.js",
+      "PackagePath": "staticwebassets\\js\\legacy.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\login2.js",
+      "PackagePath": "staticwebassets\\js\\login2.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\login5.js",
+      "PackagePath": "staticwebassets\\js\\login5.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.date.js",
+      "PackagePath": "staticwebassets\\js\\picker.date.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.js",
+      "PackagePath": "staticwebassets\\js\\picker.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.time.js",
+      "PackagePath": "staticwebassets\\js\\picker.time.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\restaurant.js",
+      "PackagePath": "staticwebassets\\js\\restaurant.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

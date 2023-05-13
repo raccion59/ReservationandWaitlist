@@ -1,0 +1,212 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+
+
+
+
+.signup-container {
+  width: 700px;
+  height: 400px;
+  background: white;
+  position: relative;
+  display: grid;
+  grid-template: 100%/50% 50%;
+  box-shadow: 2px 2px 10px 0 rgba(51, 51, 51, 0.2);
+  
+}
+
+.message {
+  position: absolute;
+  background: white;
+  width: 50%;
+  height: 100%;
+  transition: 0.5s all ease;
+  transform: translateX(100%);
+  z-index: 4;
+}
+.message:before {
+  position: absolute;
+  content: "";
+  width: 1px;
+  height: 70%;
+  background: #c3c3d8;
+  opacity: 0;
+  left: 0;
+  top: 15%;
+}
+.message .button {
+  margin: 5px 0;
+}
+
+.signup:before {
+  opacity: 0.3;
+  left: 0;
+}
+
+.login:before {
+  opacity: 0.3;
+  left: 100%;
+}
+
+.btn-wrapper {
+  width: 60%;
+}
+
+.form {
+  width: 100%;
+  height: 100%;
+}
+.form--heading {
+  font-size: 25px;
+  height: 50px;
+  color: #8288ff;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.form--signup {
+  border-right: 1px solid #999;
+}
+
+form {
+  width: 70%;
+}
+form > * {
+  margin: 10px;
+}
+form input {
+  width: 90%;
+  border: 0;
+  border-bottom: 1px solid #aaa;
+  font-size: 13px;
+  font-weight: 300;
+  color: #797a9e;
+  letter-spacing: 0.11em;
+}
+form input::placeholder {
+  color: #333;
+  font-size: 10px;
+}
+form input:focus {
+  outline: 0;
+  border-bottom: 1px solid rgba(128, 155, 206, 0.7);
+  transition: 0.6s all ease;
+}
+
+.button {
+  width: 100%;
+  height: 30px;
+  border: 0;
+  outline: 0;
+  color: white;
+  font-size: 15px;
+  font-weight: 400;
+  position: relative;
+  z-index: 3;
+  background: #8288ff;
+  font-family: "Source Sans Pro", sans-serif;
+  cursor: pointer;
+}
+
+.fish, .fish-shadow {
+  width: 640px;
+  height: auto;
+  position: absolute;
+  top: -145px;
+  left: -177px;
+  -moz-animation: fish 3s forwards ease-in-out;
+  -webkit-animation: fish 3s forwards ease-in-out;
+  animation: fish 3s forwards ease-in-out;
+}
+.fish path, .fish-shadow path {
+  fill: #fff;
+}
+.fish path:hover, .fish-shadow path:hover {
+  fill: #ff6100;
+}
+.fish .line, .fish-shadow .line {
+  fill: none;
+}
+
+.fish-shadow-con {
+  opacity: 0.2;
+  filter: blur(10px);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.fish-shadow {
+  top: -125px;
+  left: -157px;
+}
+.fish-shadow path {
+  fill: #211922;
+}
+.fish-shadow path:hover {
+  fill: #211922;
+}
+
+.fish-shadow {
+  -webkit-filter: url("#goo");
+  filter: url(#goo);
+  top: -125px;
+  left: -157px;
+  opacity: 0.4;
+}
+
+.top-navbar{
+	z-index: 100;
+    color: #ffff;
+    opacity: 0.95;
+}
+
+.top-navbar .navbar{
+	padding: 10px 0px;
+	position: fixed;
+	width: 100%;
+	transition: height .3s ease-out, background .3s ease-out, box-shadow .3s ease-out;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.4);
+	box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.4);
+	z-index: 100;
+    
+
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-link{
+	color: #010101 ;
+	font-size: 16px;
+	padding: 10px 20px;
+	border-radius: 4px;
+	text-transform: uppercase;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover{
+	background: #ef3f5a;
+	color: #ffffff;
+}
+.top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
+	background: #ef3f5a;
+	color: #ffffff;
+	border-radius: 4px;
+    
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+	border: none;
+	border-radius: 0px;
+	padding: 10px;
+	box-shadow: 2px 5px 6px rgba(0,0,0,0.5);
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu a{
+	padding: 10px 10px;
+	text-transform: uppercase;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu a.dropdown-item:hover{
+	background: #ef3f5a;
+	color: #ffffff;
+}
+.navbar-light .navbar-toggler:hover{
+	background: #ef3f5a;
+}
