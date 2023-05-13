@@ -1,0 +1,21 @@
+version: '3'
+
+services:   
+    pgres:
+        container_name: reservado.postgres
+        image: postgres
+        restart: always
+        ports:
+            - "41311:5432"
+        environment:
+            POSTGRES_DB: reservado
+            POSTGRES_USER: postgres
+            POSTGRES_PASSWORD: example
+            PGDATA: /tmp
+        volumes:
+            - .cloud/postgres/data:/var/lib/postgresql/data
+        networks:
+            - reservado_network
+networks:
+    reservado_network:
+        driver: bridge
