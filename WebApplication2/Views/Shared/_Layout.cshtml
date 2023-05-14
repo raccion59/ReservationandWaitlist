@@ -8,7 +8,30 @@
     <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/responsive.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/custom.css" asp-append-version="true" />
+	<link rel="dns-prefetch" href="//cdn.otstatic.com" />
+	<link rel="dns-prefetch" href="//cdn.cookielaw.org" />
+	<noscript><b>Enable JavaScript to run this app.</b></noscript>
+	<link rel="stylesheet" type="text/css" href="/css/Restaurant.css" />
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+		  integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<!-- Site CSS -->
+	<link rel="stylesheet" href="/css/style.css">
+	<!-- Responsive CSS -->
+	<link rel="stylesheet" href="/css/responsive.css">
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="/css/custom.css">
 
+	<!-- FONTS -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Karla&family=Oswald&display=swap"
+		  rel="stylesheet">
+	<!-- Site Icons -->
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<script src="https://kit.fontawesome.com/2aba7a5f40.js" crossorigin="anonymous"></script>
 	<style>
 
 		/*the container must be positioned relative:*/
@@ -80,7 +103,7 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbars-rs-food">
 					<ul class="navbar-nav ml-auto">
-						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+						<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Restaurant &amp; Cafe</a>
 							<div class="dropdown-menu" aria-labelledby="dropdown-a">
@@ -88,9 +111,9 @@
 								<a class="dropdown-item" href="stuff.html">Cafe</a>
 							</div>
 						</li>
-						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
-
-						<li class="nav-item active"><a class="nav-link button small-button nav-bar-button w-button" href="login4.html">Sign In</a></li>
+						<li class="nav-item"><a class="nav-link" href="/home/about">About Us</a></li>
+@*
+						<li class="nav-item active"><a class="nav-link button small-button nav-bar-button w-button" href="login4.html">Sign In</a></li>*@
 					</ul>
 				</div>
 			</div>
@@ -202,6 +225,46 @@
 				window.location.href = 'business/detail?id=' + $("#selectedB").val();
 				// All of main() code can go in here
 			});
+			$("#dateRes").datepicker();
+
+			$('#sendConfirmation').on('click', function (e) {
+				
+				console.log($("#dateRes").val())
+				console.log($("#timeRes").val())
+				console.log($("#guestRes").val())
+
+				var formData = {
+					ReservationDate: $("#dateRes").val(),
+					time: $("#timeRes").val(),
+					Pax: $("#guestRes").val(),
+					bid: $("#bid").val()
+				};
+
+				$.ajax({
+					type: "POST",
+					url: "/business/booking",
+					data: formData,
+					dataType: "json",
+					encode: true,
+				}).done(function (data) {
+
+					alert(data.data);
+					window.location.href = '/business/detail?id=' + $("#bid").val();
+					console.log(data);
+				});
+				
+
+			});
+			$('#sendWaitList').on('click', function (e) {
+				$('#exampleModal').modal('toggle');
+				//alert("Talebiniz için teşekkürler en kısa sürede sizin ile iletişime geçeceğiz!")
+				//window.location.href = '/';
+
+			});
+
+
+
+			
 			
 		});
 		$(function () {

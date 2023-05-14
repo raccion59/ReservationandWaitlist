@@ -30,6 +30,10 @@ namespace WebApplication2.Controllers
             return View( bussineses);
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DSm3GOXgqrq2y5zbZVE0vZaBjzIQ7CAkSg5BMORsIeg=",
+  "Hash": "1GcYsL66/2ONibG7+oJlI//jjPW53f4r/ooLWKpEF+Y=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication2\\wwwroot",
       "Source": "WebApplication2",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication2.styles.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication2.styles.css",
       "SourceId": "WebApplication2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "WebApplication2.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication2.styles.css"
+      "OriginalItemSpec": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication2.styles.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
       "SourceId": "WebApplication2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "WebApplication2.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\animate.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\animate.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\baguetteBox.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\baguetteBox.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/baguetteBox.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\baguetteBox.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/classic.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\classic.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.date.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.date.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/classic.date.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\classic.date.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.time.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\classic.time.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/classic.time.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\classic.time.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\custom.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\custom.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/custom.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login2.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login2.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/login2.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login2.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login3.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login3.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/login3.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login3.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login4.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login4.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/login4.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login4.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login5.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\login5.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/login5.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login5.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\responsive.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\Restaurant.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\Restaurant.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/Restaurant.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Restaurant.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\site.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\style.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\superslides.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\css\\superslides.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/superslides.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\superslides.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\about-bg.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\about-bg.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/about-bg.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\about-img.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\about-img.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/about-img.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\aboutus.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\aboutus.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/aboutus.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\aboutus.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\all-bg.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\all-bg.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/all-bg.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\all-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\asuman.webp",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\asuman.webp",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/asuman.webp",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asuman.webp"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\avt-img.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\avt-img.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/avt-img.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avt-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-01.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-01.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-01.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-02.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-02.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-02.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-03.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-03.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-03.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-04.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-04.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-04.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-05.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-05.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-05.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-06.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-06.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-06.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-07.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-07.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-07.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-07.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-08.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-08.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-08.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-08.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-09.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\blog-img-09.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/blog-img-09.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-09.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\cupofjoy.jpeg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\cupofjoy.jpeg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/cupofjoy.jpeg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cupofjoy.jpeg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\cupofjoy1.jpeg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\cupofjoy1.jpeg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/cupofjoy1.jpeg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cupofjoy1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\dem.jpeg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\dem.jpeg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/dem.jpeg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dem.jpeg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\footer-bg.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\footer-bg.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/footer-bg.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\footer-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-01.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-01.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/gallery-img-01.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-img-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-02.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-02.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/gallery-img-02.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-img-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-03.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-03.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/gallery-img-03.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-img-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-04.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-04.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/gallery-img-04.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-img-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-05.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-05.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/gallery-img-05.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-img-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-06.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\gallery-img-06.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/gallery-img-06.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-img-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-01.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-01.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-01.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-02.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-02.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-02.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-03.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-03.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-03.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-04.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-04.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-04.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-05.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-05.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-05.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-06.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-06.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-06.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-07.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-07.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-07.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-07.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-08.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-08.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-08.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-08.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-09.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\img-09.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/img-09.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-09.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\inner-blog-img.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\inner-blog-img.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/inner-blog-img.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\inner-blog-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\location.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\location.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/location.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\location.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\logo.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-01.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-01.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/post-img-01.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-img-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-02.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-02.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/post-img-02.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-img-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-03.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\post-img-03.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/post-img-03.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-img-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\qt-bg.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\qt-bg.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/qt-bg.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\qt-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\quotations-button.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\quotations-button.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/quotations-button.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\quotations-button.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/res.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\res.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res1.webp",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res1.webp",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/res1.webp",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\res1.webp"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res2.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res2.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/res2.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\res2.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res3.jpeg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res3.jpeg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/res3.jpeg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\res3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res4.jpeg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res4.jpeg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/res4.jpeg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\res4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res5.jpeg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res5.jpeg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/res5.jpeg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\res5.jpeg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res6.jpeg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\res6.jpeg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/res6.jpeg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\res6.jpeg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/rest.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rest.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest1.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest1.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/rest1.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rest1.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest2.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\rest2.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/rest2.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rest2.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\restaurant.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\restaurant.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/restaurant.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\restaurant.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider.jpeg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider.jpeg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/slider.jpeg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider.jpeg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-01.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-01.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/slider-01.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-02.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-02.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/slider-02.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-03.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider-03.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/slider-03.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider1.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\slider1.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/slider1.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider1.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/ss.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ss.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss2.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss2.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/ss2.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ss2.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss3.png",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\ss3.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/ss3.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ss3.png"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-01.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-01.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/stuff-img-01.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\stuff-img-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-02.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-02.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/stuff-img-02.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\stuff-img-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-03.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-03.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/stuff-img-03.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\stuff-img-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-04.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-04.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/stuff-img-04.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\stuff-img-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-05.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-05.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/stuff-img-05.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\stuff-img-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-06.jpg",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\images\\stuff-img-06.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/stuff-img-06.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\stuff-img-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\baguetteBox.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\baguetteBox.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/baguetteBox.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\baguetteBox.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\contact-form-script.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\contact-form-script.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/contact-form-script.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact-form-script.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\custom.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\form-validator.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\form-validator.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/form-validator.min.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\js\\form-validator.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\images-loded.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\images-loded.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/images-loded.min.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\js\\images-loded.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\isotope.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\isotope.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/isotope.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\isotope.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery.mapify.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery.mapify.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/jquery.mapify.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.mapify.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery.superslides.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery.superslides.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/jquery.superslides.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.superslides.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\jquery-3.2.1.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/jquery-3.2.1.min.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\legacy.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\legacy.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/legacy.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\js\\legacy.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\login2.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\login2.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/login2.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login2.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\login5.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\login5.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/login5.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login5.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.date.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.date.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/picker.date.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\js\\picker.date.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/picker.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\js\\picker.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.time.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\picker.time.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/picker.time.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\js\\picker.time.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\popper.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\restaurant.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\restaurant.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/restaurant.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\js\\restaurant.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\js\\site.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Source\\Repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\raccion59\\ReservationandWaitlist\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
