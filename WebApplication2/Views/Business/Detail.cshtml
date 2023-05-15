@@ -71,6 +71,44 @@
 </div>
 
 
+<!-- Modal -->
+<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Waiting List Form</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-3 justify-content-end"> Name</div>
+                    <div class="col-9"> <input type="text" required class="form-control" /></div>
+                </div>
+                <div class="row">
+                    <div class="col-3"> Surname</div>
+                    <div class="col-9"> <input type="text" required class="form-control" /></div>
+                </div>
+                <div class="row">
+                    <div class="col-3"> Phone</div>
+                    <div class="col-9"> <input type="text" required class="form-control" /></div>
+                </div>
+                <div class="row">
+                    <div class="col-3"> Mail</div>
+                    <div class="col-9"> <input type="text" required class="form-control" /></div>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" id="sendConfirmation" class="btn btn-primary">Send Confirmation</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 <div id="wrapper">
     <div class="Vjv7IAxA9tM2Q_lNaiH8" id="baseApp">
         <div class="f3iSmMLllrn4_gjKYg0E">
@@ -1003,7 +1041,7 @@
                                                 <button type="button"
                                                         class="oj_Zftq0Z_Ts7usxdiLc WkATSvkvJnLhgjlINRzg n0GonOKcEH4mc03kM4Jz pREW2ZkuYncjapZLLnc3"
                                                         aria-disabled="false" data-test="dtp-picker-card-find-button"
-                                                        aria-label="Find a time" tabindex="0" id="sendConfirmation" disabled>
+                                                        aria-label="Find a time" tabindex="0" id="sendConfirmationStart" disabled>
                                                     Find a time
                                                 </button>
                                             }
@@ -1012,7 +1050,7 @@
                                                 <button type="button"
                                                         class="oj_Zftq0Z_Ts7usxdiLc WkATSvkvJnLhgjlINRzg n0GonOKcEH4mc03kM4Jz pREW2ZkuYncjapZLLnc3"
                                                         aria-disabled="false" data-test="dtp-picker-card-find-button"
-                                                        aria-label="Find a time" tabindex="0" id="sendConfirmation">
+                                                        aria-label="Find a time" tabindex="0" id="sendConfirmationStart">
                                                     Find a time
                                                 </button>
                                             }

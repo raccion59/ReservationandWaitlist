@@ -227,6 +227,14 @@
 			});
 			$("#dateRes").datepicker();
 
+			$('#sendConfirmationStart').on('click', function (e) {
+				$('#exampleModal2').modal('toggle');
+				//alert("Talebiniz için teşekkürler en kısa sürede sizin ile iletişime geçeceğiz!")
+				//window.location.href = '/';
+
+			});
+
+
 			$('#sendConfirmation').on('click', function (e) {
 				
 				console.log($("#dateRes").val())
